@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 22 de junho de 2017 17:14:18
+   Origem : C:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\UmbracoTeste\Umbraco\
+     Dest : C:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\UmbracoTeste\App_Data\NuGetBackup\20170622-171417\Umbraco\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\UmbracoTeste\Umbraco\
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         0         0         0         0         0         0
+    Bytes:         0         0         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: quinta-feira, 22 de junho de 2017 17:14:18
+

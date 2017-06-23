@@ -1,0 +1,2033 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 22 de junho de 2017 17:14:19
+   Origem : c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\
+     Dest : C:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\UmbracoTeste\Umbraco\
+
+    Arquivos: *.*
+	    
+Arquivos Exc: UI.xml
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                  12	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\
+	  Novo Arquivo		    2295	ClientRedirect.aspx  0%  100%  
+	  Novo Arquivo		    1442	create.aspx  0%  100%  
+	  Novo Arquivo		     792	endPreview.aspx  0%  100%  
+	  Novo Arquivo		     420	helpRedirect.aspx  0%  100%  
+	  Novo Arquivo		     826	installer.html  0%  100%  
+	  Novo Arquivo		    1624	Logout.aspx  0%  100%  
+	  Novo Arquivo		     492	macroResultWrapper.aspx  0%  100%  
+	  Novo Arquivo		      61	ping.aspx  0%  100%  
+	  Novo Arquivo		     891	publishStatus.aspx  0%  100%  
+	  Novo Arquivo		     179	tree.aspx  0%  100%  
+	  Novo Arquivo		    1887	treeInit.aspx  0%  100%  
+	  Novo Arquivo		     126	umbraco.aspx  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Actions\
+	  Novo Arquivo		    1155	delete.aspx  0%  100%  
+	  Novo Arquivo		     480	editContent.aspx  0%  100%  
+	  Novo Arquivo		     471	preview.aspx  0%  100%  
+	  Novo Arquivo		    1203	publish.aspx  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\css\
+	  Novo Arquivo		   40430	canvasdesigner.css  0%  100%  
+	  Novo Arquivo		   41998	installer.css  0%  100%  
+	  Novo Arquivo		    7110	nonodes.style.min.css  0%  100%  
+	  Novo Arquivo		  280885	umbraco.css  0%   46%   93%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\fonts\
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\fonts\helveticons\
+	  Novo Arquivo		  117324	helveticons.eot  0%  100%  
+	  Novo Arquivo		  793966	helveticons.svg  0%   33%   66%   99%  100%  
+	  Novo Arquivo		  117160	helveticons.ttf  0%  100%  
+	  Novo Arquivo		  294540	helveticons.woff  0%   44%   89%  100%  
+	    Novo Dir      32	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\fonts\lato\
+	  Novo Arquivo		   66110	LatoLatin-Black.eot  0%  100%  
+	  Novo Arquivo		  144228	LatoLatin-Black.ttf  0%   90%  100%  
+	  Novo Arquivo		   70460	LatoLatin-Black.woff  0%  100%  
+	  Novo Arquivo		   43456	LatoLatin-Black.woff2  0%  100%  
+	  Novo Arquivo		   67322	LatoLatin-BlackItalic.eot  0%  100%  
+	  Novo Arquivo		  150720	LatoLatin-BlackItalic.ttf  0%   86%  100%  
+	  Novo Arquivo		   72372	LatoLatin-BlackItalic.woff  0%  100%  
+	  Novo Arquivo		   44316	LatoLatin-BlackItalic.woff2  0%  100%  
+	  Novo Arquivo		   68209	LatoLatin-Bold.eot  0%  100%  
+	  Novo Arquivo		  146156	LatoLatin-Bold.ttf  0%   89%  100%  
+	  Novo Arquivo		   72376	LatoLatin-Bold.woff  0%  100%  
+	  Novo Arquivo		   44380	LatoLatin-Bold.woff2  0%  100%  
+	  Novo Arquivo		   69528	LatoLatin-BoldItalic.eot  0%  100%  
+	  Novo Arquivo		  149756	LatoLatin-BoldItalic.ttf  0%   87%  100%  
+	  Novo Arquivo		   73700	LatoLatin-BoldItalic.woff  0%  100%  
+	  Novo Arquivo		   45036	LatoLatin-BoldItalic.woff2  0%  100%  
+	  Novo Arquivo		   69771	LatoLatin-Italic.eot  0%  100%  
+	  Novo Arquivo		  153688	LatoLatin-Italic.ttf  0%   85%  100%  
+	  Novo Arquivo		   74708	LatoLatin-Italic.woff  0%  100%  
+	  Novo Arquivo		   45388	LatoLatin-Italic.woff2  0%  100%  
+	  Novo Arquivo		   67508	LatoLatin-Light.eot  0%  100%  
+	  Novo Arquivo		  151856	LatoLatin-Light.ttf  0%   86%  100%  
+	  Novo Arquivo		   72604	LatoLatin-Light.woff  0%  100%  
+	  Novo Arquivo		   43468	LatoLatin-Light.woff2  0%  100%  
+	  Novo Arquivo		   68553	LatoLatin-LightItalic.eot  0%  100%  
+	  Novo Arquivo		  153096	LatoLatin-LightItalic.ttf  0%   85%  100%  
+	  Novo Arquivo		   73444	LatoLatin-LightItalic.woff  0%  100%  
+	  Novo Arquivo		   44156	LatoLatin-LightItalic.woff2  0%  100%  
+	  Novo Arquivo		   68135	LatoLatin-Regular.eot  0%  100%  
+	  Novo Arquivo		  148540	LatoLatin-Regular.ttf  0%   88%  100%  
+	  Novo Arquivo		   72456	LatoLatin-Regular.woff  0%  100%  
+	  Novo Arquivo		   43760	LatoLatin-Regular.woff2  0%  100%  
+	    Novo Dir       9	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\fonts\opensans\
+	  Novo Arquivo		   19836	OpenSans-Regular-webfont.eot  0%  100%  
+	  Novo Arquivo		  119399	OpenSans-Regular-webfont.svg  0%  100%  
+	  Novo Arquivo		   38232	OpenSans-Regular-webfont.ttf  0%  100%  
+	  Novo Arquivo		   22660	OpenSans-Regular-webfont.woff  0%  100%  
+	  Novo Arquivo		  217360	OpenSans-Regular.ttf  0%   60%  100%  
+	  Novo Arquivo		   20028	OpenSans-Semibold-webfont.eot  0%  100%  
+	  Novo Arquivo		  118464	OpenSans-Semibold-webfont.svg  0%  100%  
+	  Novo Arquivo		   39476	OpenSans-Semibold-webfont.ttf  0%  100%  
+	  Novo Arquivo		   22908	OpenSans-Semibold-webfont.woff  0%  100%  
+	    Novo Dir       7	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\img\
+	  Novo Arquivo		     957	checkered-background-20.png  0%  100%  
+	  Novo Arquivo		     165	checkered-background.png  0%  100%  
+	  Novo Arquivo		  279297	installer.jpg  0%   46%   93%  100%  
+	  Novo Arquivo		   23155	loader.gif  0%  100%  
+	  Novo Arquivo		    1746	logo.png  0%  100%  
+	  Novo Arquivo		  237538	nonodesbg.jpg  0%   55%  100%  
+	  Novo Arquivo		   14993	transparent.png  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\img\application\
+	  Novo Arquivo		    1175	logo.png  0%  100%  
+	  Novo Arquivo		    2433	logo@2x.png  0%  100%  
+	  Novo Arquivo		    3796	logo@3x.png  0%  100%  
+	  Novo Arquivo		    1280	logo_black.png  0%  100%  
+	  Novo Arquivo		    1333	logo_white.png  0%  100%  
+	    Novo Dir      11	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\img\applicationIcons\
+	  Novo Arquivo		    1139	content.png  0%  100%  
+	  Novo Arquivo		    1581	default.png  0%  100%  
+	  Novo Arquivo		    1376	developer.png  0%  100%  
+	  Novo Arquivo		    1702	help.svg  0%  100%  
+	  Novo Arquivo		    7364	hlvticons-umbraco.svg  0%  100%  
+	  Novo Arquivo		    1386	media.png  0%  100%  
+	  Novo Arquivo		    1342	members.png  0%  100%  
+	  Novo Arquivo		    1179	search.png  0%  100%  
+	  Novo Arquivo		    1612	settings.png  0%  100%  
+	  Novo Arquivo		    2828	tree-arrow.png  0%  100%  
+	  Novo Arquivo		    1304	users.png  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\img\forms\
+	  Novo Arquivo		   37864	installer-background.png  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\img\uploader\
+	  Novo Arquivo		    1738	upload-illustration.png  0%  100%  
+	  Novo Arquivo		    1378	upload-illustration.svg  0%  100%  
+	    Novo Dir      11	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\assets\less\
+	  Novo Arquivo		     693	background.less  0%  100%  
+	  Novo Arquivo		    1827	border.less  0%  100%  
+	  Novo Arquivo		     360	color.less  0%  100%  
+	  Novo Arquivo		     787	googlefontpicker.less  0%  100%  
+	  Novo Arquivo		     794	gridRow.less  0%  100%  
+	  Novo Arquivo		    1780	layout.less  0%  100%  
+	  Novo Arquivo		    1093	margin.less  0%  100%  
+	  Novo Arquivo		    1114	padding.less  0%  100%  
+	  Novo Arquivo		    2185	radius.less  0%  100%  
+	  Novo Arquivo		     622	shadow.less  0%  100%  
+	  Novo Arquivo		     458	slider.less  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Channels\
+	  Novo Arquivo		     963	rsd.aspx  0%  100%  
+	  Novo Arquivo		    1912	wlwmanifest.aspx  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Config\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Config\Create\
+	    Novo Dir      18	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Config\Lang\
+	  Novo Arquivo		   67044	cs.xml  0%  100%  
+	  Novo Arquivo		   81240	da.xml  0%  100%  
+	  Novo Arquivo		   72110	de.xml  0%  100%  
+	  Novo Arquivo		   94648	en.xml  0%  100%  
+	  Novo Arquivo		   94680	en_us.xml  0%  100%  
+	  Novo Arquivo		   67815	es.xml  0%  100%  
+	  Novo Arquivo		   99575	fr.xml  0%  100%  
+	  Novo Arquivo		   63876	he.xml  0%  100%  
+	  Novo Arquivo		   63931	it.xml  0%  100%  
+	  Novo Arquivo		   88448	ja.xml  0%  100%  
+	  Novo Arquivo		   60337	ko.xml  0%  100%  
+	  Novo Arquivo		   66055	nb.xml  0%  100%  
+	  Novo Arquivo		   93328	nl.xml  0%  100%  
+	  Novo Arquivo		   59417	pl.xml  0%  100%  
+	  Novo Arquivo		   58926	pt.xml  0%  100%  
+	  Novo Arquivo		  140997	ru.xml  0%   92%  100%  
+	  Novo Arquivo		   67985	sv.xml  0%  100%  
+	  Novo Arquivo		   81535	zh.xml  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Controls\
+	  Novo Arquivo		    7209	passwordChanger.ascx  0%  100%  
+	  Novo Arquivo		     309	ProgressBar.ascx  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Controls\Images\
+	  Novo Arquivo		    2224	ImageViewer.ascx  0%  100%  
+	  Novo Arquivo		    6000	ImageViewer.js  0%  100%  
+	  Novo Arquivo		     127	ImageViewerUpdater.asmx  0%  100%  
+	  Novo Arquivo		    1826	UploadMediaImage.ascx  0%  100%  
+	  Novo Arquivo		    2618	UploadMediaImage.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Controls\Tree\
+	  Novo Arquivo		      82	CustomTreeService.asmx  0%  100%  
+	  Novo Arquivo		    2725	TreeControl.ascx  0%  100%  
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Create\
+	  Novo Arquivo		    2412	DlrScripting.ascx  0%  100%  
+	  Novo Arquivo		    1039	language.ascx  0%  100%  
+	  Novo Arquivo		    1867	PartialView.ascx  0%  100%  
+	  Novo Arquivo		    2450	PartialViewMacro.ascx  0%  100%  
+	  Novo Arquivo		    1984	script.ascx  0%  100%  
+	  Novo Arquivo		    1279	simple.ascx  0%  100%  
+	  Novo Arquivo		    2338	User.ascx  0%  100%  
+	  Novo Arquivo		    1696	xslt.ascx  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Css\
+	  Novo Arquivo		     151	background.gif  0%  100%  
+	  Novo Arquivo		     674	permissionsEditor.css  0%  100%  
+	  Novo Arquivo		      88	splitter.gif  0%  100%  
+	  Novo Arquivo		    7686	umbracoGui.css  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Dashboard\
+	  Novo Arquivo		   13245	ExamineManagement.ascx  0%  100%  
+	  Novo Arquivo		     178	FeedProxy.aspx  0%  100%  
+	  Novo Arquivo		     565	LatestEdits.ascx  0%  100%  
+	  Novo Arquivo		    1761	UserControlProxy.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\
+	  Novo Arquivo		     995	autoDoc.aspx  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\Macros\
+	  Novo Arquivo		    1674	assemblyBrowser.aspx  0%  100%  
+	  Novo Arquivo		   11700	editMacro.aspx  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\Packages\
+	  Novo Arquivo		    1171	directoryBrowser.aspx  0%  100%  
+	  Novo Arquivo		   12700	editPackage.aspx  0%  100%  
+	  Novo Arquivo		   18426	installer.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\Python\
+	  Novo Arquivo		    2701	editPython.aspx  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\RelationTypes\
+	  Novo Arquivo		    6536	EditRelationType.aspx  0%  100%  
+	  Novo Arquivo		    3013	NewRelationType.aspx  0%  100%  
+	  Novo Arquivo		     162	RelationTypesWebService.asmx  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\RelationTypes\Images\
+	  Novo Arquivo		     421	Bidirectional.png  0%  100%  
+	  Novo Arquivo		     434	ParentToChild.png  0%  100%  
+	  Novo Arquivo		    1053	Refresh.gif  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\RelationTypes\TreeMenu\
+	  Novo Arquivo		     731	ActionDeleteRelationType.js  0%  100%  
+	  Novo Arquivo		     172	ActionNewRelationType.js  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Developer\Xslt\
+	  Novo Arquivo		    3251	editXslt.aspx  0%  100%  
+	  Novo Arquivo		     108	getXsltStatus.asmx  0%  100%  
+	  Novo Arquivo		    2160	xsltChooseExtension.aspx  0%  100%  
+	  Novo Arquivo		    2588	xsltInsertValueOf.aspx  0%  100%  
+	  Novo Arquivo		    2895	xsltVisualize.aspx  0%  100%  
+	    Novo Dir      33	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Dialogs\
+	  Novo Arquivo		    1518	about.aspx  0%  100%  
+	  Novo Arquivo		    2115	AssignDomain.aspx  0%  100%  
+	  Novo Arquivo		    4277	AssignDomain2.aspx  0%  100%  
+	  Novo Arquivo		    6285	ChangeDocType.aspx  0%  100%  
+	  Novo Arquivo		    3217	create.aspx  0%  100%  
+	  Novo Arquivo		    1149	cruds.aspx  0%  100%  
+	  Novo Arquivo		    3654	EditMacro.aspx  0%  100%  
+	  Novo Arquivo		     262	empty.htm  0%  100%  
+	  Novo Arquivo		    3606	emptyTrashcan.aspx  0%  100%  
+	  Novo Arquivo		     150	exportDocumenttype.aspx  0%  100%  
+	  Novo Arquivo		     402	imageViewer.aspx  0%  100%  
+	  Novo Arquivo		    2031	importDocumenttype.aspx  0%  100%  
+	  Novo Arquivo		    4415	insertMacro.aspx  0%  100%  
+	  Novo Arquivo		    1651	insertMasterpageContent.aspx  0%  100%  
+	  Novo Arquivo		    1622	insertMasterpagePlaceholder.aspx  0%  100%  
+	  Novo Arquivo		    7962	insertTable.aspx  0%  100%  
+	  Novo Arquivo		    4127	mediaPicker.aspx  0%  100%  
+	  Novo Arquivo		    4415	moveOrCopy.aspx  0%  100%  
+	  Novo Arquivo		     815	notifications.aspx  0%  100%  
+	  Novo Arquivo		     748	Preview.aspx  0%  100%  
+	  Novo Arquivo		   10333	protectPage.aspx  0%  100%  
+	  Novo Arquivo		    4211	publish.aspx  0%  100%  
+	  Novo Arquivo		    2339	RegexWs.aspx  0%  100%  
+	  Novo Arquivo		    1779	republish.aspx  0%  100%  
+	  Novo Arquivo		    4233	rollBack.aspx  0%  100%  
+	  Novo Arquivo		    1856	search.aspx  0%  100%  
+	  Novo Arquivo		     809	SendPublish.aspx  0%  100%  
+	  Novo Arquivo		    1638	sendToTranslation.aspx  0%  100%  
+	  Novo Arquivo		    4124	sort.aspx  0%  100%  
+	  Novo Arquivo		    1076	treePicker.aspx  0%  100%  
+	  Novo Arquivo		    6939	umbracoField.aspx  0%  100%  
+	  Novo Arquivo		    1170	uploadImage.aspx  0%  100%  
+	  Novo Arquivo		    3076	viewAuditTrail.aspx  0%  100%  
+	    Novo Dir      98	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\
+	  Novo Arquivo		    1178	aboutNew.png  0%  100%  
+	  Novo Arquivo		     834	arrawBack.gif  0%  100%  
+	  Novo Arquivo		     832	arrowDown.gif  0%  100%  
+	  Novo Arquivo		     834	arrowForward.gif  0%  100%  
+	  Novo Arquivo		     897	audit.png  0%  100%  
+	  Novo Arquivo		     422	back.png  0%  100%  
+	  Novo Arquivo		     144	blank.png  0%  100%  
+	  Novo Arquivo		     389	close.png  0%  100%  
+	  Novo Arquivo		     388	collapse.png  0%  100%  
+	  Novo Arquivo		     489	copy.small.png  0%  100%  
+	  Novo Arquivo		     472	cut.small.png  0%  100%  
+	  Novo Arquivo		      92	c_b.gif  0%  100%  
+	  Novo Arquivo		     211	c_bl.gif  0%  100%  
+	  Novo Arquivo		     948	c_bl_label.gif  0%  100%  
+	  Novo Arquivo		     240	c_br.gif  0%  100%  
+	  Novo Arquivo		    1031	c_br_label.gif  0%  100%  
+	  Novo Arquivo		      96	c_b_label.gif  0%  100%  
+	  Novo Arquivo		      93	c_r.gif  0%  100%  
+	  Novo Arquivo		      96	c_t.gif  0%  100%  
+	  Novo Arquivo		     242	c_tl.gif  0%  100%  
+	  Novo Arquivo		     434	c_tr.gif  0%  100%  
+	  Novo Arquivo		     253	date.gif  0%  100%  
+	  Novo Arquivo		     512	delete.gif  0%  100%  
+	  Novo Arquivo		     715	delete.png  0%  100%  
+	  Novo Arquivo		     374	delete.small.png  0%  100%  
+	  Novo Arquivo		     582	delete_button.png  0%  100%  
+	  Novo Arquivo		     255	dialogBg.png  0%  100%  
+	  Novo Arquivo		     362	domain.gif  0%  100%  
+	  Novo Arquivo		     472	domain_on.png  0%  100%  
+	  Novo Arquivo		    1420	download.png  0%  100%  
+	  Novo Arquivo		    1487	errorLayerBackground.gif  0%  100%  
+	  Novo Arquivo		     400	expand.png  0%  100%  
+	  Novo Arquivo		     617	exportDocumenttype.png  0%  100%  
+	  Novo Arquivo		     894	false.png  0%  100%  
+	  Novo Arquivo		     251	file.png  0%  100%  
+	  Novo Arquivo		     390	find.small.png  0%  100%  
+	  Novo Arquivo		     967	findDocument.gif  0%  100%  
+	  Novo Arquivo		     617	findDocument.png  0%  100%  
+	  Novo Arquivo		     413	folder.small.png  0%  100%  
+	  Novo Arquivo		     229	foldericon.png  0%  100%  
+	  Novo Arquivo		     418	forward.png  0%  100%  
+	  Novo Arquivo		    1321	gradientBackground.png  0%  100%  
+	  Novo Arquivo		    1482	gradientLine.gif  0%  100%  
+	  Novo Arquivo		    1013	help.gif  0%  100%  
+	  Novo Arquivo		    1018	help.png  0%  100%  
+	  Novo Arquivo		     507	htmldoc.small.png  0%  100%  
+	  Novo Arquivo		     601	importDocumenttype.png  0%  100%  
+	  Novo Arquivo		     725	information.png  0%  100%  
+	  Novo Arquivo		     114	listItemOrange.gif  0%  100%  
+	  Novo Arquivo		     219	Lminus.png  0%  100%  
+	  Novo Arquivo		   17566	loginBg.png  0%  100%  
+	  Novo Arquivo		    1011	logout.png  0%  100%  
+	  Novo Arquivo		     996	logout_small.gif  0%  100%  
+	  Novo Arquivo		     592	logout_small.png  0%  100%  
+	  Novo Arquivo		     224	Lplus.png  0%  100%  
+	  Novo Arquivo		     115	macro.gif  0%  100%  
+	  Novo Arquivo		      45	nada.gif  0%  100%  
+	  Novo Arquivo		     246	new.gif  0%  100%  
+	  Novo Arquivo		    1035	new.png  0%  100%  
+	  Novo Arquivo		     989	newStar.gif  0%  100%  
+	  Novo Arquivo		     489	notepad.png  0%  100%  
+	  Novo Arquivo		    1003	notify.gif  0%  100%  
+	  Novo Arquivo		    1003	notifyOld.gif  0%  100%  
+	  Novo Arquivo		    1469	okLayerBackground.gif  0%  100%  
+	  Novo Arquivo		     232	openfoldericon.png  0%  100%  
+	  Novo Arquivo		     396	options.small.png  0%  100%  
+	  Novo Arquivo		    1012	package.png  0%  100%  
+	  Novo Arquivo		     966	package2.png  0%  100%  
+	  Novo Arquivo		     632	paste.small.png  0%  100%  
+	  Novo Arquivo		     450	pencil.png  0%  100%  
+	  Novo Arquivo		    1009	permission.gif  0%  100%  
+	  Novo Arquivo		     581	permission.png  0%  100%  
+	  Novo Arquivo		    1023	protect.gif  0%  100%  
+	  Novo Arquivo		     628	protect.png  0%  100%  
+	  Novo Arquivo		     554	publish.gif  0%  100%  
+	  Novo Arquivo		     717	publish.png  0%  100%  
+	  Novo Arquivo		     502	refresh.png  0%  100%  
+	  Novo Arquivo		     588	rollback.gif  0%  100%  
+	  Novo Arquivo		     626	rollback.png  0%  100%  
+	  Novo Arquivo		     549	save.png  0%  100%  
+	  Novo Arquivo		    1047	sendToTranslate.png  0%  100%  
+	  Novo Arquivo		     232	small_minus.png  0%  100%  
+	  Novo Arquivo		     257	small_plus.png  0%  100%  
+	  Novo Arquivo		     388	sort.gif  0%  100%  
+	  Novo Arquivo		     400	sort.png  0%  100%  
+	  Novo Arquivo		     400	sort.small.png  0%  100%  
+	  Novo Arquivo		     152	T.png  0%  100%  
+	  Novo Arquivo		    1844	throbber.gif  0%  100%  
+	  Novo Arquivo		     959	thumbs_lrg.png  0%  100%  
+	  Novo Arquivo		     967	thumbs_med.png  0%  100%  
+	  Novo Arquivo		     957	thumbs_smll.png  0%  100%  
+	  Novo Arquivo		     207	Tminus.png  0%  100%  
+	  Novo Arquivo		     266	toggleTreeOff.png  0%  100%  
+	  Novo Arquivo		     271	toggleTreeOn.png  0%  100%  
+	  Novo Arquivo		     304	topGradient.gif  0%  100%  
+	  Novo Arquivo		     222	Tplus.png  0%  100%  
+	  Novo Arquivo		     612	true.png  0%  100%  
+	  Novo Arquivo		    3134	umbracoSplash.png  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Actions\
+	  Novo Arquivo		   12301	sprites.png  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Developer\
+	  Novo Arquivo		     842	customControlIcon.png  0%  100%  
+	  Novo Arquivo		   30235	pythonIcon.png  0%  100%  
+	  Novo Arquivo		     775	usercontrolIcon.png  0%  100%  
+	  Novo Arquivo		     776	xsltIcon.png  0%  100%  
+	    Novo Dir     138	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Editor\
+	  Novo Arquivo		     171	anchor.gif  0%  100%  
+	  Novo Arquivo		    1152	anchor.png  0%  100%  
+	  Novo Arquivo		      70	anchor_symbol.gif  0%  100%  
+	  Novo Arquivo		     174	backcolor.gif  0%  100%  
+	  Novo Arquivo		      76	Bold.GIF  0%  100%  
+	  Novo Arquivo		      73	bold_de_se.gif  0%  100%  
+	  Novo Arquivo		      80	bold_es.gif  0%  100%  
+	  Novo Arquivo		      78	bold_fr.gif  0%  100%  
+	  Novo Arquivo		      77	bold_ru.gif  0%  100%  
+	  Novo Arquivo		     207	bold_tw.gif  0%  100%  
+	  Novo Arquivo		     113	browse.gif  0%  100%  
+	  Novo Arquivo		     108	bullist.GIF  0%  100%  
+	  Novo Arquivo		    8399	buttons.gif  0%  100%  
+	  Novo Arquivo		      57	button_menu.gif  0%  100%  
+	  Novo Arquivo		     394	calendar.gif  0%  100%  
+	  Novo Arquivo		     108	calendarButton.gif  0%  100%  
+	  Novo Arquivo		     677	cancel_button_bg.gif  0%  100%  
+	  Novo Arquivo		      73	Center.GIF  0%  100%  
+	  Novo Arquivo		     245	charmap.gif  0%  100%  
+	  Novo Arquivo		     256	cleanup.gif  0%  100%  
+	  Novo Arquivo		     102	close.gif  0%  100%  
+	  Novo Arquivo		     110	code.gif  0%  100%  
+	  Novo Arquivo		     125	color.gif  0%  100%  
+	  Novo Arquivo		     263	Copy.GIF  0%  100%  
+	  Novo Arquivo		      76	custom_1.gif  0%  100%  
+	  Novo Arquivo		     187	Cut.GIF  0%  100%  
+	  Novo Arquivo		     199	DeIndent.GIF  0%  100%  
+	  Novo Arquivo		     123	delcell.GIF  0%  100%  
+	  Novo Arquivo		     121	delcol.GIF  0%  100%  
+	  Novo Arquivo		     124	delrow.GIF  0%  100%  
+	  Novo Arquivo		     294	dezoom.gif  0%  100%  
+	  Novo Arquivo		    1040	dictionaryItem.gif  0%  100%  
+	  Novo Arquivo		     616	doc.gif  0%  100%  
+	  Novo Arquivo		     607	documentType.gif  0%  100%  
+	  Novo Arquivo		     272	forecolor.gif  0%  100%  
+	  Novo Arquivo		    1085	form.gif  0%  100%  
+	  Novo Arquivo		     109	formButton.gif  0%  100%  
+	  Novo Arquivo		     118	formCheckbox.gif  0%  100%  
+	  Novo Arquivo		     131	formHidden.gif  0%  100%  
+	  Novo Arquivo		     111	formRadio.gif  0%  100%  
+	  Novo Arquivo		     126	formSelect.gif  0%  100%  
+	  Novo Arquivo		     132	formText.gif  0%  100%  
+	  Novo Arquivo		     118	formTextarea.gif  0%  100%  
+	  Novo Arquivo		     134	fullscrn.GIF  0%  100%  
+	  Novo Arquivo		     295	help.gif  0%  100%  
+	  Novo Arquivo		     377	help.png  0%  100%  
+	  Novo Arquivo		      63	hr.gif  0%  100%  
+	  Novo Arquivo		     321	html.gif  0%  100%  
+	  Novo Arquivo		     194	image.GIF  0%  100%  
+	  Novo Arquivo		     112	indent.gif  0%  100%  
+	  Novo Arquivo		     199	inindent.GIF  0%  100%  
+	  Novo Arquivo		     382	insBreadcrum.gif  0%  100%  
+	  Novo Arquivo		     123	inscell.GIF  0%  100%  
+	  Novo Arquivo		     914	insChildTemplate.gif  0%  100%  
+	  Novo Arquivo		     914	insChildTemplateNew.gif  0%  100%  
+	  Novo Arquivo		     120	inscol.GIF  0%  100%  
+	  Novo Arquivo		     703	insert_button_bg.gif  0%  100%  
+	  Novo Arquivo		     648	insField.gif  0%  100%  
+	  Novo Arquivo		     626	insFieldByLevel.gif  0%  100%  
+	  Novo Arquivo		     621	insFieldByTree.gif  0%  100%  
+	  Novo Arquivo		     119	insform.gif  0%  100%  
+	  Novo Arquivo		     191	inshtml.GIF  0%  100%  
+	  Novo Arquivo		     610	insMacro.gif  0%  100%  
+	  Novo Arquivo		     474	insMacroSB.png  0%  100%  
+	  Novo Arquivo		     627	insMemberItem.gif  0%  100%  
+	  Novo Arquivo		     529	insRazorMacro.png  0%  100%  
+	  Novo Arquivo		     124	insrow.GIF  0%  100%  
+	  Novo Arquivo		     612	instable.GIF  0%  100%  
+	  Novo Arquivo		      79	Italic.GIF  0%  100%  
+	  Novo Arquivo		      75	italic_de_se.gif  0%  100%  
+	  Novo Arquivo		      74	italic_es.gif  0%  100%  
+	  Novo Arquivo		      78	italic_ru.gif  0%  100%  
+	  Novo Arquivo		     274	italic_tw.gif  0%  100%  
+	  Novo Arquivo		      70	justifycenter.gif  0%  100%  
+	  Novo Arquivo		      71	justifyfull.gif  0%  100%  
+	  Novo Arquivo		      71	justifyleft.gif  0%  100%  
+	  Novo Arquivo		      70	justifyright.gif  0%  100%  
+	  Novo Arquivo		      73	left.GIF  0%  100%  
+	  Novo Arquivo		     175	Link.GIF  0%  100%  
+	  Novo Arquivo		      87	Lock.GIF  0%  100%  
+	  Novo Arquivo		     132	masterpageContent.gif  0%  100%  
+	  Novo Arquivo		     286	masterpagePlaceHolder.gif  0%  100%  
+	  Novo Arquivo		     260	media.gif  0%  100%  
+	  Novo Arquivo		      51	menu_check.gif  0%  100%  
+	  Novo Arquivo		     142	mrgcell.GIF  0%  100%  
+	  Novo Arquivo		     102	newdoc.GIF  0%  100%  
+	  Novo Arquivo		     170	newdocument.gif  0%  100%  
+	  Novo Arquivo		     111	numlist.GIF  0%  100%  
+	  Novo Arquivo		     147	opacity.png  0%  100%  
+	  Novo Arquivo		     132	Open.GIF  0%  100%  
+	  Novo Arquivo		     110	outdent.gif  0%  100%  
+	  Novo Arquivo		     286	Paste.GIF  0%  100%  
+	  Novo Arquivo		     149	project.GIF  0%  100%  
+	  Novo Arquivo		     139	properties.gif  0%  100%  
+	  Novo Arquivo		     983	propertiesNew.gif  0%  100%  
+	  Novo Arquivo		     122	props.GIF  0%  100%  
+	  Novo Arquivo		     169	Redo.GIF  0%  100%  
+	  Novo Arquivo		     327	rel.gif  0%  100%  
+	  Novo Arquivo		     168	removeformat.gif  0%  100%  
+	  Novo Arquivo		    1336	renderbody.gif  0%  100%  
+	  Novo Arquivo		      73	right.GIF  0%  100%  
+	  Novo Arquivo		     633	Save.GIF  0%  100%  
+	  Novo Arquivo		    1094	SaveAndPublish.gif  0%  100%  
+	  Novo Arquivo		    1196	SaveAndPublish.png  0%  100%  
+	  Novo Arquivo		     610	SaveToPublish.gif  0%  100%  
+	  Novo Arquivo		     861	saveToPublish.png  0%  100%  
+	  Novo Arquivo		      57	separator.gif  0%  100%  
+	  Novo Arquivo		     197	showStyles.gif  0%  100%  
+	  Novo Arquivo		     628	showStyles.png  0%  100%  
+	  Novo Arquivo		    1684	skin.gif  0%  100%  
+	  Novo Arquivo		      43	spacer.gif  0%  100%  
+	  Novo Arquivo		     591	spellchecker.gif  0%  100%  
+	  Novo Arquivo		      73	split.gif  0%  100%  
+	  Novo Arquivo		     137	spltcell.GIF  0%  100%  
+	  Novo Arquivo		      79	statusbar_resize.gif  0%  100%  
+	  Novo Arquivo		      83	strikethrough.gif  0%  100%  
+	  Novo Arquivo		     968	styleMarkEnd.gif  0%  100%  
+	  Novo Arquivo		     157	styleMarkStart.gif  0%  100%  
+	  Novo Arquivo		     148	sub.gif  0%  100%  
+	  Novo Arquivo		     147	sup.gif  0%  100%  
+	  Novo Arquivo		     287	table.gif  0%  100%  
+	  Novo Arquivo		     137	TaskList.GIF  0%  100%  
+	  Novo Arquivo		     120	umbracoField.gif  0%  100%  
+	  Novo Arquivo		     146	umbracoScriptlet.gif  0%  100%  
+	  Novo Arquivo		     560	umbracoTextGen.gif  0%  100%  
+	  Novo Arquivo		      91	under.GIF  0%  100%  
+	  Novo Arquivo		      88	underline.gif  0%  100%  
+	  Novo Arquivo		      79	underline_es.gif  0%  100%  
+	  Novo Arquivo		      79	underline_fr.gif  0%  100%  
+	  Novo Arquivo		      77	underline_ru.gif  0%  100%  
+	  Novo Arquivo		     245	underline_tw.gif  0%  100%  
+	  Novo Arquivo		     175	Undo.GIF  0%  100%  
+	  Novo Arquivo		     190	unlink.gif  0%  100%  
+	  Novo Arquivo		    3113	upload.png  0%  100%  
+	  Novo Arquivo		     589	vis.gif  0%  100%  
+	  Novo Arquivo		     206	visualaid.gif  0%  100%  
+	  Novo Arquivo		     663	xslVisualize.gif  0%  100%  
+	  Novo Arquivo		     302	zoom.gif  0%  100%  
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\PinnedIcons\
+	  Novo Arquivo		    1150	task_content.ico  0%  100%  
+	  Novo Arquivo		    1150	task_default.ico  0%  100%  
+	  Novo Arquivo		    1150	task_developer.ico  0%  100%  
+	  Novo Arquivo		    1150	task_media.ico  0%  100%  
+	  Novo Arquivo		    1150	task_member.ico  0%  100%  
+	  Novo Arquivo		    1150	task_settings.ico  0%  100%  
+	  Novo Arquivo		    1150	task_users.ico  0%  100%  
+	  Novo Arquivo		   17542	umb.ico  0%  100%  
+	    Novo Dir      18	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\SpeechBubble\
+	  Novo Arquivo		     582	error.gif  0%  100%  
+	  Novo Arquivo		    1915	error.png  0%  100%  
+	  Novo Arquivo		     630	info.gif  0%  100%  
+	  Novo Arquivo		    1542	info.png  0%  100%  
+	  Novo Arquivo		     562	save.gif  0%  100%  
+	  Novo Arquivo		    1036	save.png  0%  100%  
+	  Novo Arquivo		    9439	speechbubble.gif  0%  100%  
+	  Novo Arquivo		   12444	speechbubble.png  0%  100%  
+	  Novo Arquivo		     916	speechbubbleShadow.png  0%  100%  
+	  Novo Arquivo		    1774	speechbubbleShadowNew.gif  0%  100%  
+	  Novo Arquivo		   10694	speechbubble_body.png  0%  100%  
+	  Novo Arquivo		    2891	speechbubble_bottom.png  0%  100%  
+	  Novo Arquivo		     169	speechbubble_close.gif  0%  100%  
+	  Novo Arquivo		     696	speechbubble_close_over.gif  0%  100%  
+	  Novo Arquivo		     660	speechbubble_shadow.gif  0%  100%  
+	  Novo Arquivo		    1045	speechbubble_top.png  0%  100%  
+	  Novo Arquivo		    1036	success.png  0%  100%  
+	  Novo Arquivo		    1188	warning.png  0%  100%  
+	    Novo Dir      12	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Thumbnails\
+	  Novo Arquivo		   19431	developer.png  0%  100%  
+	  Novo Arquivo		    8311	doc.png  0%  100%  
+	  Novo Arquivo		   21725	docWithImage.png  0%  100%  
+	  Novo Arquivo		   21034	folder.png  0%  100%  
+	  Novo Arquivo		   28459	folder_media.png  0%  100%  
+	  Novo Arquivo		    8311	mediaFile.png  0%  100%  
+	  Novo Arquivo		   21725	mediaPhoto.png  0%  100%  
+	  Novo Arquivo		   15119	member.png  0%  100%  
+	  Novo Arquivo		   19497	memberGroup.png  0%  100%  
+	  Novo Arquivo		   19684	members.png  0%  100%  
+	  Novo Arquivo		   11883	template.png  0%  100%  
+	  Novo Arquivo		   12153	xml.png  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Tray\
+	  Novo Arquivo		   11965	traySprites.png  0%  100%  
+	    Novo Dir      54	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Images\Umbraco\
+	  Novo Arquivo		    3435	bin.png  0%  100%  
+	  Novo Arquivo		     363	bin_closed.png  0%  100%  
+	  Novo Arquivo		     659	bin_empty.png  0%  100%  
+	  Novo Arquivo		     577	developerCacheItem.gif  0%  100%  
+	  Novo Arquivo		     578	developerCacheTypes.gif  0%  100%  
+	  Novo Arquivo		     125	developerDatatype.gif  0%  100%  
+	  Novo Arquivo		     604	developerMacro.gif  0%  100%  
+	  Novo Arquivo		     618	developerPython.gif  0%  100%  
+	  Novo Arquivo		     118	developerRegistry.gif  0%  100%  
+	  Novo Arquivo		     123	developerRegistryItem.gif  0%  100%  
+	  Novo Arquivo		     616	developerRuby.gif  0%  100%  
+	  Novo Arquivo		     399	developerScript.gif  0%  100%  
+	  Novo Arquivo		     410	developerXslt.gif  0%  100%  
+	  Novo Arquivo		     616	doc.gif  0%  100%  
+	  Novo Arquivo		     604	doc2.gif  0%  100%  
+	  Novo Arquivo		     616	doc3.gif  0%  100%  
+	  Novo Arquivo		     597	doc4.gif  0%  100%  
+	  Novo Arquivo		     609	doc5.gif  0%  100%  
+	  Novo Arquivo		     607	docPic.gif  0%  100%  
+	  Novo Arquivo		    1030	folder.gif  0%  100%  
+	  Novo Arquivo		    1030	folder_o.gif  0%  100%  
+	  Novo Arquivo		     621	mediaFile.gif  0%  100%  
+	  Novo Arquivo		     619	mediaMovie.gif  0%  100%  
+	  Novo Arquivo		     618	mediaMulti.gif  0%  100%  
+	  Novo Arquivo		     561	mediaPhoto.gif  0%  100%  
+	  Novo Arquivo		     998	member.gif  0%  100%  
+	  Novo Arquivo		    1000	memberGroup.gif  0%  100%  
+	  Novo Arquivo		    1012	memberType.gif  0%  100%  
+	  Novo Arquivo		    1013	newsletter.gif  0%  100%  
+	  Novo Arquivo		     525	nitros.gif  0%  100%  
+	  Novo Arquivo		    1021	package.gif  0%  100%  
+	  Novo Arquivo		     810	package.png  0%  100%  
+	  Novo Arquivo		    1062	repository.gif  0%  100%  
+	  Novo Arquivo		     145	settingAgent.gif  0%  100%  
+	  Novo Arquivo		     607	settingCss.gif  0%  100%  
+	  Novo Arquivo		     299	settingCssItem.gif  0%  100%  
+	  Novo Arquivo		     607	settingDatatype.gif  0%  100%  
+	  Novo Arquivo		     144	settingDataTypeChild.gif  0%  100%  
+	  Novo Arquivo		    1034	settingDomain.gif  0%  100%  
+	  Novo Arquivo		     387	settingLanguage.gif  0%  100%  
+	  Novo Arquivo		     587	settingMasterDatatype.gif  0%  100%  
+	  Novo Arquivo		     235	settingMasterTemplate.gif  0%  100%  
+	  Novo Arquivo		    1655	settingSkin.gif  0%  100%  
+	  Novo Arquivo		     553	settingsScript.gif  0%  100%  
+	  Novo Arquivo		     252	settingTemplate.gif  0%  100%  
+	  Novo Arquivo		    1644	settingView.gif  0%  100%  
+	  Novo Arquivo		     268	settingXML.gif  0%  100%  
+	  Novo Arquivo		   14538	sprites.png  0%  100%  
+	  Novo Arquivo		    7307	sprites_ie6.gif  0%  100%  
+	  Novo Arquivo		     305	statistik.gif  0%  100%  
+	  Novo Arquivo		    1035	uploadpackage.gif  0%  100%  
+	  Novo Arquivo		     998	user.gif  0%  100%  
+	  Novo Arquivo		    1000	userGroup.gif  0%  100%  
+	  Novo Arquivo		    1012	userType.gif  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Install\
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Install\Views\
+	  Novo Arquivo		    2884	Index.cshtml  0%  100%  
+	  Novo Arquivo		    2812	Web.config  0%  100%  
+	    Novo Dir      29	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Js\
+	  Novo Arquivo		    2542	app.js  0%  100%  
+	  Novo Arquivo		    8041	canvasdesigner.config.js  0%  100%  
+	  Novo Arquivo		   10291	canvasdesigner.front.js  0%  100%  
+	  Novo Arquivo		     591	canvasdesigner.loader.js  0%  100%  
+	  Novo Arquivo		   32503	canvasdesigner.palettes.js  0%  100%  
+	  Novo Arquivo		   66908	canvasdesigner.panel.js  0%  100%  
+	  Novo Arquivo		    1249	dualSelectBox.js  0%  100%  
+	  Novo Arquivo		    2929	guiFunctions.js  0%  100%  
+	  Novo Arquivo		    4581	init.js  0%  100%  
+	  Novo Arquivo		     606	install.loader.js  0%  100%  
+	  Novo Arquivo		     111	language.aspx  0%  100%  
+	  Novo Arquivo		    8652	routes.js  0%  100%  
+	  Novo Arquivo		  699565	umbraco.controllers.js  0%   37%   74%  100%  
+	  Novo Arquivo		  397554	umbraco.directives.js  0%   32%   65%   98%  100%  
+	  Novo Arquivo		    1388	umbraco.filters.js  0%  100%  
+	  Novo Arquivo		    1090	umbraco.httpbackend.js  0%  100%  
+	  Novo Arquivo		   15092	umbraco.installer.js  0%  100%  
+	  Novo Arquivo		  178986	umbraco.resources.js  0%   73%  100%  
+	  Novo Arquivo		    9326	umbraco.security.js  0%  100%  
+	  Novo Arquivo		    1902	umbraco.servervariables.js  0%  100%  
+	  Novo Arquivo		  411754	umbraco.services.js  0%   31%   63%   95%  100%  
+	  Novo Arquivo		  140789	umbraco.testing.js  0%   93%  100%  
+	  Novo Arquivo		    2926	umbracoCheckKeys.js  0%  100%  
+	  Novo Arquivo		    3833	UmbracoSpeechBubble.js  0%  100%  
+	  Novo Arquivo		    2738	UmbracoSpeechBubbleBackEnd.js  0%  100%  
+	  Novo Arquivo		     201	UmbracoSpeechBubbleInit.js  0%  100%  
+	  Novo Arquivo		     586	umbracoUpgradeChecker.js  0%  100%  
+	  Novo Arquivo		    4102	xmlextras.js  0%  100%  
+	  Novo Arquivo		    1951	xmlRequest.js  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ace-builds\
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ace-builds\src-min-noconflict\
+	  Novo Arquivo		  354781	ace.js  0%   36%   73%  100%  
+	  Novo Arquivo		   34464	ext-language_tools.js  0%  100%  
+	  Novo Arquivo		   10005	ext-searchbox.js  0%  100%  
+	  Novo Arquivo		   12293	ext-settings_menu.js  0%  100%  
+	  Novo Arquivo		   18060	mode-javascript.js  0%  100%  
+	  Novo Arquivo		   64984	mode-razor.js  0%  100%  
+	  Novo Arquivo		    2712	theme-chrome.js  0%  100%  
+	  Novo Arquivo		  164518	worker-javascript.js  0%   79%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ace-builds\src-min-noconflict\snippets\
+	  Novo Arquivo		    3840	javascript.js  0%  100%  
+	  Novo Arquivo		     131	text.js  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ace-razor-mode\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ace-razor-mode\theme\
+	  Novo Arquivo		    2877	razor_chrome.css  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular\
+	  Novo Arquivo		   12260	angular-ui-sortable.js  0%  100%  
+	  Novo Arquivo		   1.1 m	angular.js  0%   20%   41%   62%   83%  100%  
+	    Novo Dir      14	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular\1.1.5\
+	  Novo Arquivo		    5399	angular-cookies.js  0%  100%  
+	  Novo Arquivo		     806	angular-cookies.min.js  0%  100%  
+	  Novo Arquivo		   10645	angular-loader.js  0%  100%  
+	  Novo Arquivo		     933	angular-loader.min.js  0%  100%  
+	  Novo Arquivo		   17504	angular-mobile.js  0%  100%  
+	  Novo Arquivo		    2875	angular-mobile.min.js  0%  100%  
+	  Novo Arquivo		   61335	angular-mocks.js  0%  100%  
+	  Novo Arquivo		   22149	angular-resource.js  0%  100%  
+	  Novo Arquivo		    2787	angular-resource.min.js  0%  100%  
+	  Novo Arquivo		   18873	angular-sanitize.js  0%  100%  
+	  Novo Arquivo		    3942	angular-sanitize.min.js  0%  100%  
+	  Novo Arquivo		  934395	angular-scenario.js  0%   28%   56%   84%  100%  
+	  Novo Arquivo		  590854	angular.js  0%   44%   88%  100%  
+	  Novo Arquivo		   88852	angular.min.js  0%  100%  
+	    Novo Dir     287	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular\1.1.5\i18n\
+	  Novo Arquivo		    2218	angular-locale_af-na.js  0%  100%  
+	  Novo Arquivo		    2226	angular-locale_af-za.js  0%  100%  
+	  Novo Arquivo		    2223	angular-locale_af.js  0%  100%  
+	  Novo Arquivo		    2836	angular-locale_am-et.js  0%  100%  
+	  Novo Arquivo		    2833	angular-locale_am.js  0%  100%  
+	  Novo Arquivo		    3706	angular-locale_ar-001.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-ae.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-bh.js  0%  100%  
+	  Novo Arquivo		    3657	angular-locale_ar-dz.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-eg.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-iq.js  0%  100%  
+	  Novo Arquivo		    3869	angular-locale_ar-jo.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-kw.js  0%  100%  
+	  Novo Arquivo		    3869	angular-locale_ar-lb.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-ly.js  0%  100%  
+	  Novo Arquivo		    3657	angular-locale_ar-ma.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-om.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-qa.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-sa.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-sd.js  0%  100%  
+	  Novo Arquivo		    3869	angular-locale_ar-sy.js  0%  100%  
+	  Novo Arquivo		    3657	angular-locale_ar-tn.js  0%  100%  
+	  Novo Arquivo		    3705	angular-locale_ar-ye.js  0%  100%  
+	  Novo Arquivo		    3702	angular-locale_ar.js  0%  100%  
+	  Novo Arquivo		    3137	angular-locale_bg-bg.js  0%  100%  
+	  Novo Arquivo		    3134	angular-locale_bg.js  0%  100%  
+	  Novo Arquivo		    3458	angular-locale_bn-bd.js  0%  100%  
+	  Novo Arquivo		    3458	angular-locale_bn-in.js  0%  100%  
+	  Novo Arquivo		    3455	angular-locale_bn.js  0%  100%  
+	  Novo Arquivo		    2345	angular-locale_ca-ad.js  0%  100%  
+	  Novo Arquivo		    2345	angular-locale_ca-es.js  0%  100%  
+	  Novo Arquivo		    2342	angular-locale_ca.js  0%  100%  
+	  Novo Arquivo		    1144	angular-locale_chr.js  0%  100%  
+	  Novo Arquivo		    2445	angular-locale_cs-cz.js  0%  100%  
+	  Novo Arquivo		    2442	angular-locale_cs.js  0%  100%  
+	  Novo Arquivo		     938	angular-locale_cy.js  0%  100%  
+	  Novo Arquivo		    2259	angular-locale_da-dk.js  0%  100%  
+	  Novo Arquivo		    2256	angular-locale_da.js  0%  100%  
+	  Novo Arquivo		    2261	angular-locale_de-at.js  0%  100%  
+	  Novo Arquivo		    2249	angular-locale_de-be.js  0%  100%  
+	  Novo Arquivo		    2240	angular-locale_de-ch.js  0%  100%  
+	  Novo Arquivo		    2249	angular-locale_de-de.js  0%  100%  
+	  Novo Arquivo		    2249	angular-locale_de-li.js  0%  100%  
+	  Novo Arquivo		    2249	angular-locale_de-lu.js  0%  100%  
+	  Novo Arquivo		    2246	angular-locale_de.js  0%  100%  
+	  Novo Arquivo		    3327	angular-locale_el-cy.js  0%  100%  
+	  Novo Arquivo		    3327	angular-locale_el-gr.js  0%  100%  
+	  Novo Arquivo		    1495	angular-locale_el-polyton.js  0%  100%  
+	  Novo Arquivo		    3324	angular-locale_el.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-as.js  0%  100%  
+	  Novo Arquivo		    2216	angular-locale_en-au.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-bb.js  0%  100%  
+	  Novo Arquivo		    2208	angular-locale_en-be.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-bm.js  0%  100%  
+	  Novo Arquivo		    2215	angular-locale_en-bw.js  0%  100%  
+	  Novo Arquivo		    2206	angular-locale_en-bz.js  0%  100%  
+	  Novo Arquivo		    2220	angular-locale_en-ca.js  0%  100%  
+	  Novo Arquivo		    4060	angular-locale_en-dsrt-us.js  0%  100%  
+	  Novo Arquivo		    4057	angular-locale_en-dsrt.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-fm.js  0%  100%  
+	  Novo Arquivo		    2216	angular-locale_en-gb.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-gu.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-gy.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-hk.js  0%  100%  
+	  Novo Arquivo		    2224	angular-locale_en-ie.js  0%  100%  
+	  Novo Arquivo		    2229	angular-locale_en-in.js  0%  100%  
+	  Novo Arquivo		    2214	angular-locale_en-iso.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-jm.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-mh.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-mp.js  0%  100%  
+	  Novo Arquivo		    2219	angular-locale_en-mt.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-mu.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-na.js  0%  100%  
+	  Novo Arquivo		    2214	angular-locale_en-nz.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-ph.js  0%  100%  
+	  Novo Arquivo		    2213	angular-locale_en-pk.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-pr.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-pw.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-sg.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-tc.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-tt.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-um.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-us.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-vg.js  0%  100%  
+	  Novo Arquivo		    2212	angular-locale_en-vi.js  0%  100%  
+	  Novo Arquivo		    2224	angular-locale_en-za.js  0%  100%  
+	  Novo Arquivo		    2215	angular-locale_en-zw.js  0%  100%  
+	  Novo Arquivo		    1242	angular-locale_en-zz.js  0%  100%  
+	  Novo Arquivo		    2209	angular-locale_en.js  0%  100%  
+	  Novo Arquivo		    2257	angular-locale_es-419.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-ar.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-bo.js  0%  100%  
+	  Novo Arquivo		    2269	angular-locale_es-cl.js  0%  100%  
+	  Novo Arquivo		    2265	angular-locale_es-co.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-cr.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-do.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-ea.js  0%  100%  
+	  Novo Arquivo		    2269	angular-locale_es-ec.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-es.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-gq.js  0%  100%  
+	  Novo Arquivo		    2269	angular-locale_es-gt.js  0%  100%  
+	  Novo Arquivo		    2274	angular-locale_es-hn.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-ic.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-mx.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-ni.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-pa.js  0%  100%  
+	  Novo Arquivo		    2271	angular-locale_es-pe.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-pr.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-py.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-sv.js  0%  100%  
+	  Novo Arquivo		    2269	angular-locale_es-us.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-uy.js  0%  100%  
+	  Novo Arquivo		    2273	angular-locale_es-ve.js  0%  100%  
+	  Novo Arquivo		    2270	angular-locale_es.js  0%  100%  
+	  Novo Arquivo		    2316	angular-locale_et-ee.js  0%  100%  
+	  Novo Arquivo		    2313	angular-locale_et.js  0%  100%  
+	  Novo Arquivo		    2267	angular-locale_eu-es.js  0%  100%  
+	  Novo Arquivo		    2264	angular-locale_eu.js  0%  100%  
+	  Novo Arquivo		    3249	angular-locale_fa-af.js  0%  100%  
+	  Novo Arquivo		    3345	angular-locale_fa-ir.js  0%  100%  
+	  Novo Arquivo		    3342	angular-locale_fa.js  0%  100%  
+	  Novo Arquivo		    2392	angular-locale_fi-fi.js  0%  100%  
+	  Novo Arquivo		    2389	angular-locale_fi.js  0%  100%  
+	  Novo Arquivo		    2224	angular-locale_fil-ph.js  0%  100%  
+	  Novo Arquivo		    2221	angular-locale_fil.js  0%  100%  
+	  Novo Arquivo		    2293	angular-locale_fr-be.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-bf.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-bi.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-bj.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-bl.js  0%  100%  
+	  Novo Arquivo		    2296	angular-locale_fr-ca.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-cd.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-cf.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-cg.js  0%  100%  
+	  Novo Arquivo		    2296	angular-locale_fr-ch.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-ci.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-cm.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-dj.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-fr.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-ga.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-gf.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-gn.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-gp.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-gq.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-km.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-lu.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-mc.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-mf.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-mg.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-ml.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-mq.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-ne.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-re.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-rw.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-sn.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-td.js  0%  100%  
+	  Novo Arquivo		    2256	angular-locale_fr-tg.js  0%  100%  
+	  Novo Arquivo		    2295	angular-locale_fr-yt.js  0%  100%  
+	  Novo Arquivo		    2292	angular-locale_fr.js  0%  100%  
+	  Novo Arquivo		    2243	angular-locale_gl-es.js  0%  100%  
+	  Novo Arquivo		    2240	angular-locale_gl.js  0%  100%  
+	  Novo Arquivo		    2286	angular-locale_gsw-ch.js  0%  100%  
+	  Novo Arquivo		    2283	angular-locale_gsw.js  0%  100%  
+	  Novo Arquivo		    3248	angular-locale_gu-in.js  0%  100%  
+	  Novo Arquivo		    3245	angular-locale_gu.js  0%  100%  
+	  Novo Arquivo		     926	angular-locale_haw.js  0%  100%  
+	  Novo Arquivo		    3228	angular-locale_he-il.js  0%  100%  
+	  Novo Arquivo		    3225	angular-locale_he.js  0%  100%  
+	  Novo Arquivo		    3266	angular-locale_hi-in.js  0%  100%  
+	  Novo Arquivo		    3263	angular-locale_hi.js  0%  100%  
+	  Novo Arquivo		    2556	angular-locale_hr-hr.js  0%  100%  
+	  Novo Arquivo		    2553	angular-locale_hr.js  0%  100%  
+	  Novo Arquivo		    2307	angular-locale_hu-hu.js  0%  100%  
+	  Novo Arquivo		    2304	angular-locale_hu.js  0%  100%  
+	  Novo Arquivo		    2160	angular-locale_id-id.js  0%  100%  
+	  Novo Arquivo		    2157	angular-locale_id.js  0%  100%  
+	  Novo Arquivo		    2157	angular-locale_in.js  0%  100%  
+	  Novo Arquivo		    2372	angular-locale_is-is.js  0%  100%  
+	  Novo Arquivo		    2369	angular-locale_is.js  0%  100%  
+	  Novo Arquivo		    2226	angular-locale_it-ch.js  0%  100%  
+	  Novo Arquivo		    2259	angular-locale_it-it.js  0%  100%  
+	  Novo Arquivo		    2259	angular-locale_it-sm.js  0%  100%  
+	  Novo Arquivo		    2256	angular-locale_it.js  0%  100%  
+	  Novo Arquivo		    3177	angular-locale_iw.js  0%  100%  
+	  Novo Arquivo		    2375	angular-locale_ja-jp.js  0%  100%  
+	  Novo Arquivo		    2372	angular-locale_ja.js  0%  100%  
+	  Novo Arquivo		    3242	angular-locale_kn-in.js  0%  100%  
+	  Novo Arquivo		    3239	angular-locale_kn.js  0%  100%  
+	  Novo Arquivo		    2389	angular-locale_ko-kr.js  0%  100%  
+	  Novo Arquivo		    2386	angular-locale_ko.js  0%  100%  
+	  Novo Arquivo		    2746	angular-locale_ln-cd.js  0%  100%  
+	  Novo Arquivo		    2462	angular-locale_ln-cg.js  0%  100%  
+	  Novo Arquivo		    2743	angular-locale_ln.js  0%  100%  
+	  Novo Arquivo		    2522	angular-locale_lt-lt.js  0%  100%  
+	  Novo Arquivo		    2519	angular-locale_lt.js  0%  100%  
+	  Novo Arquivo		    2447	angular-locale_lv-lv.js  0%  100%  
+	  Novo Arquivo		    2444	angular-locale_lv.js  0%  100%  
+	  Novo Arquivo		    3515	angular-locale_ml-in.js  0%  100%  
+	  Novo Arquivo		    3512	angular-locale_ml.js  0%  100%  
+	  Novo Arquivo		    1387	angular-locale_mo.js  0%  100%  
+	  Novo Arquivo		    3243	angular-locale_mr-in.js  0%  100%  
+	  Novo Arquivo		    3240	angular-locale_mr.js  0%  100%  
+	  Novo Arquivo		    2148	angular-locale_ms-bn.js  0%  100%  
+	  Novo Arquivo		    2153	angular-locale_ms-my.js  0%  100%  
+	  Novo Arquivo		    2150	angular-locale_ms.js  0%  100%  
+	  Novo Arquivo		    2492	angular-locale_mt-mt.js  0%  100%  
+	  Novo Arquivo		    2489	angular-locale_mt.js  0%  100%  
+	  Novo Arquivo		    2220	angular-locale_nl-aw.js  0%  100%  
+	  Novo Arquivo		    2218	angular-locale_nl-be.js  0%  100%  
+	  Novo Arquivo		    2231	angular-locale_nl-cw.js  0%  100%  
+	  Novo Arquivo		    2231	angular-locale_nl-nl.js  0%  100%  
+	  Novo Arquivo		    2231	angular-locale_nl-sx.js  0%  100%  
+	  Novo Arquivo		    2228	angular-locale_nl.js  0%  100%  
+	  Novo Arquivo		    2254	angular-locale_no.js  0%  100%  
+	  Novo Arquivo		    3405	angular-locale_or-in.js  0%  100%  
+	  Novo Arquivo		    3402	angular-locale_or.js  0%  100%  
+	  Novo Arquivo		    2586	angular-locale_pl-pl.js  0%  100%  
+	  Novo Arquivo		    2583	angular-locale_pl.js  0%  100%  
+	  Novo Arquivo		    2264	angular-locale_pt-ao.js  0%  100%  
+	  Novo Arquivo		    2280	angular-locale_pt-br.js  0%  100%  
+	  Novo Arquivo		    2264	angular-locale_pt-gw.js  0%  100%  
+	  Novo Arquivo		    2264	angular-locale_pt-mz.js  0%  100%  
+	  Novo Arquivo		    2304	angular-locale_pt-pt.js  0%  100%  
+	  Novo Arquivo		    2264	angular-locale_pt-st.js  0%  100%  
+	  Novo Arquivo		    2277	angular-locale_pt.js  0%  100%  
+	  Novo Arquivo		    2344	angular-locale_ro-md.js  0%  100%  
+	  Novo Arquivo		    2376	angular-locale_ro-ro.js  0%  100%  
+	  Novo Arquivo		    2373	angular-locale_ro.js  0%  100%  
+	  Novo Arquivo		    2755	angular-locale_ru-md.js  0%  100%  
+	  Novo Arquivo		    3607	angular-locale_ru-ru.js  0%  100%  
+	  Novo Arquivo		    2746	angular-locale_ru-ua.js  0%  100%  
+	  Novo Arquivo		    3604	angular-locale_ru.js  0%  100%  
+	  Novo Arquivo		    2379	angular-locale_sk-sk.js  0%  100%  
+	  Novo Arquivo		    2376	angular-locale_sk.js  0%  100%  
+	  Novo Arquivo		    2384	angular-locale_sl-si.js  0%  100%  
+	  Novo Arquivo		    2381	angular-locale_sl.js  0%  100%  
+	  Novo Arquivo		    2269	angular-locale_sq-al.js  0%  100%  
+	  Novo Arquivo		    2266	angular-locale_sq.js  0%  100%  
+	  Novo Arquivo		    2716	angular-locale_sr-cyrl-ba.js  0%  100%  
+	  Novo Arquivo		    2702	angular-locale_sr-cyrl-me.js  0%  100%  
+	  Novo Arquivo		    3454	angular-locale_sr-cyrl-rs.js  0%  100%  
+	  Novo Arquivo		    2699	angular-locale_sr-cyrl.js  0%  100%  
+	  Novo Arquivo		    2520	angular-locale_sr-latn-ba.js  0%  100%  
+	  Novo Arquivo		    2519	angular-locale_sr-latn-me.js  0%  100%  
+	  Novo Arquivo		    2536	angular-locale_sr-latn-rs.js  0%  100%  
+	  Novo Arquivo		    2517	angular-locale_sr-latn.js  0%  100%  
+	  Novo Arquivo		    1764	angular-locale_sr-rs.js  0%  100%  
+	  Novo Arquivo		    3446	angular-locale_sr.js  0%  100%  
+	  Novo Arquivo		    2230	angular-locale_sv-fi.js  0%  100%  
+	  Novo Arquivo		    2266	angular-locale_sv-se.js  0%  100%  
+	  Novo Arquivo		    2263	angular-locale_sv.js  0%  100%  
+	  Novo Arquivo		    2223	angular-locale_sw-ke.js  0%  100%  
+	  Novo Arquivo		    2223	angular-locale_sw-tz.js  0%  100%  
+	  Novo Arquivo		    2220	angular-locale_sw.js  0%  100%  
+	  Novo Arquivo		    3052	angular-locale_ta-in.js  0%  100%  
+	  Novo Arquivo		    2543	angular-locale_ta-lk.js  0%  100%  
+	  Novo Arquivo		    3049	angular-locale_ta.js  0%  100%  
+	  Novo Arquivo		    3343	angular-locale_te-in.js  0%  100%  
+	  Novo Arquivo		    3340	angular-locale_te.js  0%  100%  
+	  Novo Arquivo		    3244	angular-locale_th-th.js  0%  100%  
+	  Novo Arquivo		    3241	angular-locale_th.js  0%  100%  
+	  Novo Arquivo		    1251	angular-locale_tl-ph.js  0%  100%  
+	  Novo Arquivo		    2220	angular-locale_tl.js  0%  100%  
+	  Novo Arquivo		    2227	angular-locale_tr-tr.js  0%  100%  
+	  Novo Arquivo		    2224	angular-locale_tr.js  0%  100%  
+	  Novo Arquivo		    3476	angular-locale_uk-ua.js  0%  100%  
+	  Novo Arquivo		    3473	angular-locale_uk.js  0%  100%  
+	  Novo Arquivo		    2374	angular-locale_ur-in.js  0%  100%  
+	  Novo Arquivo		    3078	angular-locale_ur-pk.js  0%  100%  
+	  Novo Arquivo		    3075	angular-locale_ur.js  0%  100%  
+	  Novo Arquivo		    2508	angular-locale_vi-vn.js  0%  100%  
+	  Novo Arquivo		    2505	angular-locale_vi.js  0%  100%  
+	  Novo Arquivo		    2410	angular-locale_zh-cn.js  0%  100%  
+	  Novo Arquivo		    2415	angular-locale_zh-hans-cn.js  0%  100%  
+	  Novo Arquivo		    2239	angular-locale_zh-hans-hk.js  0%  100%  
+	  Novo Arquivo		    2239	angular-locale_zh-hans-mo.js  0%  100%  
+	  Novo Arquivo		    2245	angular-locale_zh-hans-sg.js  0%  100%  
+	  Novo Arquivo		    2201	angular-locale_zh-hans.js  0%  100%  
+	  Novo Arquivo		    2228	angular-locale_zh-hant-hk.js  0%  100%  
+	  Novo Arquivo		    2232	angular-locale_zh-hant-mo.js  0%  100%  
+	  Novo Arquivo		    2202	angular-locale_zh-hant-tw.js  0%  100%  
+	  Novo Arquivo		    2199	angular-locale_zh-hant.js  0%  100%  
+	  Novo Arquivo		    2465	angular-locale_zh-hk.js  0%  100%  
+	  Novo Arquivo		    2404	angular-locale_zh-tw.js  0%  100%  
+	  Novo Arquivo		    2407	angular-locale_zh.js  0%  100%  
+	  Novo Arquivo		    2231	angular-locale_zu-za.js  0%  100%  
+	  Novo Arquivo		    2228	angular-locale_zu.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular-bootstrap\
+	  Novo Arquivo		   53004	ui-bootstrap-tpls-0.10.0.min.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular-dynamic-locale\
+	  Novo Arquivo		    2976	tmhDynamicLocale.min.js  0%  100%  
+	  Novo Arquivo		    4024	tmhDynamicLocale.min.js.map  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\angular-local-storage\
+	  Novo Arquivo		    5315	angular-local-storage.min.js  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\
+	    Novo Dir       7	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\css\
+	  Novo Arquivo		   22057	bootstrap-responsive.css  0%  100%  
+	  Novo Arquivo		   16858	bootstrap-responsive.min.css  0%  100%  
+	  Novo Arquivo		  114358	bootstrap.cosmo.min.css  0%  100%  
+	  Novo Arquivo		  105909	bootstrap.css  0%  100%  
+	  Novo Arquivo		  102593	bootstrap.min.3.0.1.css  0%  100%  
+	  Novo Arquivo		  105948	bootstrap.min.css  0%  100%  
+	  Novo Arquivo		   16850	responsive.css  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\img\
+	  Novo Arquivo		    8777	glyphicons-halflings-white.png  0%  100%  
+	  Novo Arquivo		   12799	glyphicons-halflings.png  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\js\
+	  Novo Arquivo		   61962	bootstrap.2.3.2.js  0%  100%  
+	  Novo Arquivo		   28631	bootstrap.2.3.2.min.js  0%  100%  
+	    Novo Dir      41	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\less\
+	  Novo Arquivo		     670	accordion.less  0%  100%  
+	  Novo Arquivo		    1448	alerts.less  0%  100%  
+	  Novo Arquivo		    1552	bootstrap.less  0%  100%  
+	  Novo Arquivo		     455	breadcrumbs.less  0%  100%  
+	  Novo Arquivo		    5938	button-groups.less  0%  100%  
+	  Novo Arquivo		    4994	buttons.less  0%  100%  
+	  Novo Arquivo		    2640	carousel.less  0%  100%  
+	  Novo Arquivo		     675	close.less  0%  100%  
+	  Novo Arquivo		    1352	code.less  0%  100%  
+	  Novo Arquivo		     328	component-animations.less  0%  100%  
+	  Novo Arquivo		    5730	dropdowns.less  0%  100%  
+	  Novo Arquivo		   16554	forms.less  0%  100%  
+	  Novo Arquivo		     450	grid.less  0%  100%  
+	  Novo Arquivo		     546	hero-unit.less  0%  100%  
+	  Novo Arquivo		    1968	labels-badges.less  0%  100%  
+	  Novo Arquivo		     344	layouts.less  0%  100%  
+	  Novo Arquivo		     915	media.less  0%  100%  
+	  Novo Arquivo		   23744	mixins.less  0%  100%  
+	  Novo Arquivo		    2073	modals.less  0%  100%  
+	  Novo Arquivo		   12499	navbar.less  0%  100%  
+	  Novo Arquivo		    8572	navs.less  0%  100%  
+	  Novo Arquivo		     802	pager.less  0%  100%  
+	  Novo Arquivo		    2801	pagination.less  0%  100%  
+	  Novo Arquivo		    3210	popovers.less  0%  100%  
+	  Novo Arquivo		    2980	progress-bars.less  0%  100%  
+	  Novo Arquivo		    4417	reset.less  0%  100%  
+	  Novo Arquivo		     593	responsive-1200px-min.less  0%  100%  
+	  Novo Arquivo		    4113	responsive-767px-max.less  0%  100%  
+	  Novo Arquivo		     482	responsive-768px-979px.less  0%  100%  
+	  Novo Arquivo		    4517	responsive-navbar.less  0%  100%  
+	  Novo Arquivo		    1661	responsive-utilities.less  0%  100%  
+	  Novo Arquivo		    1117	responsive.less  0%  100%  
+	  Novo Arquivo		     938	scaffolding.less  0%  100%  
+	  Novo Arquivo		   11038	sprites.less  0%  100%  
+	  Novo Arquivo		    6499	tables.less  0%  100%  
+	  Novo Arquivo		    1289	thumbnails.less  0%  100%  
+	  Novo Arquivo		    1754	tooltip.less  0%  100%  
+	  Novo Arquivo		    5104	type.less  0%  100%  
+	  Novo Arquivo		     365	utilities.less  0%  100%  
+	  Novo Arquivo		    9443	variables.less  0%  100%  
+	  Novo Arquivo		     581	wells.less  0%  100%  
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap\less\tests\
+	  Novo Arquivo		    6550	buttons.html  0%  100%  
+	  Novo Arquivo		    5625	css-tests.css  0%  100%  
+	  Novo Arquivo		   41537	css-tests.html  0%  100%  
+	  Novo Arquivo		    2433	forms-responsive.html  0%  100%  
+	  Novo Arquivo		    4258	forms.html  0%  100%  
+	  Novo Arquivo		    4796	navbar-fixed-top.html  0%  100%  
+	  Novo Arquivo		    4818	navbar-static-top.html  0%  100%  
+	  Novo Arquivo		    4904	navbar.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap-social\
+	  Novo Arquivo		   20453	bootstrap-social.css  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\bootstrap-tabdrop\
+	  Novo Arquivo		    3680	bootstrap-tabdrop.js  0%  100%  
+	  Novo Arquivo		    1490	README.md  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\addon\
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\addon\dialog\
+	  Novo Arquivo		     507	dialog.css  0%  100%  
+	  Novo Arquivo		    4938	dialog.js  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\addon\edit\
+	  Novo Arquivo		    6498	closebrackets.js  0%  100%  
+	  Novo Arquivo		    7590	closetag.js  0%  100%  
+	  Novo Arquivo		    1750	continuelist.js  0%  100%  
+	  Novo Arquivo		    5254	matchbrackets.js  0%  100%  
+	  Novo Arquivo		    2355	matchtags.js  0%  100%  
+	  Novo Arquivo		    1003	trailingspace.js  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\addon\search\
+	  Novo Arquivo		    4943	match-highlighter.js  0%  100%  
+	  Novo Arquivo		     188	matchesonscrollbar.css  0%  100%  
+	  Novo Arquivo		    3808	matchesonscrollbar.js  0%  100%  
+	  Novo Arquivo		    7294	search.js  0%  100%  
+	  Novo Arquivo		    7723	searchcursor.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\addon\selection\
+	  Novo Arquivo		    2442	active-line.js  0%  100%  
+	  Novo Arquivo		    3781	mark-selection.js  0%  100%  
+	  Novo Arquivo		    3292	selection-pointer.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\lib\
+	  Novo Arquivo		    7771	codemirror.css  0%  100%  
+	  Novo Arquivo		  347063	codemirror.js  0%   37%   75%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\css\
+	  Novo Arquivo		   34123	css.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\htmlmixed\
+	  Novo Arquivo		    5001	htmlmixed.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\javascript\
+	  Novo Arquivo		   26636	javascript.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\razor\
+	  Novo Arquivo		   22051	index.html  0%  100%  
+	  Novo Arquivo		    1151	LICENSE  0%  100%  
+	  Novo Arquivo		    9378	razor.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\codemirror\mode\xml\
+	  Novo Arquivo		   12375	xml.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\cssparser\
+	  Novo Arquivo		  175686	cssparser.js  0%   74%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\datetimepicker\
+	  Novo Arquivo		   59387	bootstrap-datetimepicker.js  0%  100%  
+	  Novo Arquivo		    5058	bootstrap-datetimepicker.min.css  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\font-awesome\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\font-awesome\css\
+	  Novo Arquivo		   21984	font-awesome.min.css  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\font-awesome\fonts\
+	  Novo Arquivo		   56006	fontawesome-webfont.eot  0%  100%  
+	  Novo Arquivo		  287007	fontawesome-webfont.svg  0%   45%   91%  100%  
+	  Novo Arquivo		  112160	fontawesome-webfont.ttf  0%  100%  
+	  Novo Arquivo		   65452	fontawesome-webfont.woff  0%  100%  
+	  Novo Arquivo		   85908	FontAwesome.otf  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\jquery\
+	  Novo Arquivo		   85578	jquery.min.js  0%  100%  
+	  Novo Arquivo		  129572	jquery.min.map  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\jquery-migrate\
+	  Novo Arquivo		    9632	jquery-migrate.min.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\jquery-ui\
+	  Novo Arquivo		   27244	jquery-ui-1.10.4.custom.min.css  0%  100%  
+	  Novo Arquivo		  240427	jquery-ui.min.js  0%   54%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\jquery-ui-touch-punch\
+	  Novo Arquivo		    4787	jquery.ui.touch-punch.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\less\
+	  Novo Arquivo		  101854	less-1.7.0.min.js  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\markdown\
+	  Novo Arquivo		   46410	markdown.converter.js  0%  100%  
+	  Novo Arquivo		    1658	markdown.css  0%  100%  
+	  Novo Arquivo		   78546	markdown.editor.js  0%  100%  
+	  Novo Arquivo		    4188	markdown.sanitizer.js  0%  100%  
+	  Novo Arquivo		      95	red.css  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\moment\
+	  Novo Arquivo		  370101	moment-with-locales.js  0%   35%   70%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\ng-file-upload\
+	  Novo Arquivo		   23766	ng-file-upload.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\rgrove-lazyload\
+	  Novo Arquivo		   13187	lazyload.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\slider\
+	  Novo Arquivo		    2210	bootstrap-slider-custom.css  0%  100%  
+	  Novo Arquivo		    8238	bootstrap-slider.css  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\slider\js\
+	  Novo Arquivo		   49898	bootstrap-slider.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\spectrum\
+	  Novo Arquivo		   14603	spectrum.css  0%  100%  
+	  Novo Arquivo		   40676	spectrum.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\
+	  Novo Arquivo		  405216	tinymce.min.js  0%   32%   64%   97%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\advlist\
+	  Novo Arquivo		     205	index.js  0%  100%  
+	  Novo Arquivo		    3888	plugin.js  0%  100%  
+	  Novo Arquivo		    2091	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\anchor\
+	  Novo Arquivo		     202	index.js  0%  100%  
+	  Novo Arquivo		    2259	plugin.js  0%  100%  
+	  Novo Arquivo		    1188	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\autolink\
+	  Novo Arquivo		     208	index.js  0%  100%  
+	  Novo Arquivo		    5137	plugin.js  0%  100%  
+	  Novo Arquivo		    2060	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\autoresize\
+	  Novo Arquivo		     214	index.js  0%  100%  
+	  Novo Arquivo		    4990	plugin.js  0%  100%  
+	  Novo Arquivo		    1903	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\autosave\
+	  Novo Arquivo		     208	index.js  0%  100%  
+	  Novo Arquivo		    4159	plugin.js  0%  100%  
+	  Novo Arquivo		    2187	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\bbcode\
+	  Novo Arquivo		     202	index.js  0%  100%  
+	  Novo Arquivo		    4223	plugin.js  0%  100%  
+	  Novo Arquivo		    3136	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\charmap\
+	  Novo Arquivo		     205	index.js  0%  100%  
+	  Novo Arquivo		   11537	plugin.js  0%  100%  
+	  Novo Arquivo		    8199	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\code\
+	  Novo Arquivo		     196	index.js  0%  100%  
+	  Novo Arquivo		    1569	plugin.js  0%  100%  
+	  Novo Arquivo		     721	plugin.min.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\codemirror\
+	  Novo Arquivo		    1117	plugin.min.js  0%  100%  
+	  Novo Arquivo		    7416	source.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\codemirror\langs\
+	  Novo Arquivo		     216	en.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\codesample\
+	  Novo Arquivo		     214	index.js  0%  100%  
+	  Novo Arquivo		   34938	plugin.js  0%  100%  
+	  Novo Arquivo		   20332	plugin.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\codesample\css\
+	  Novo Arquivo		    2289	prism.css  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\colorpicker\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    2450	plugin.js  0%  100%  
+	  Novo Arquivo		    1222	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\contextmenu\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    2659	plugin.js  0%  100%  
+	  Novo Arquivo		    1131	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\directionality\
+	  Novo Arquivo		     226	index.js  0%  100%  
+	  Novo Arquivo		    1465	plugin.js  0%  100%  
+	  Novo Arquivo		     726	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\emoticons\
+	  Novo Arquivo		     211	index.js  0%  100%  
+	  Novo Arquivo		    1615	plugin.js  0%  100%  
+	  Novo Arquivo		     911	plugin.min.js  0%  100%  
+	    Novo Dir      16	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\emoticons\img\
+	  Novo Arquivo		     354	smiley-cool.gif  0%  100%  
+	  Novo Arquivo		     329	smiley-cry.gif  0%  100%  
+	  Novo Arquivo		     331	smiley-embarassed.gif  0%  100%  
+	  Novo Arquivo		     342	smiley-foot-in-mouth.gif  0%  100%  
+	  Novo Arquivo		     340	smiley-frown.gif  0%  100%  
+	  Novo Arquivo		     336	smiley-innocent.gif  0%  100%  
+	  Novo Arquivo		     338	smiley-kiss.gif  0%  100%  
+	  Novo Arquivo		     343	smiley-laughing.gif  0%  100%  
+	  Novo Arquivo		     321	smiley-money-mouth.gif  0%  100%  
+	  Novo Arquivo		     323	smiley-sealed.gif  0%  100%  
+	  Novo Arquivo		     344	smiley-smile.gif  0%  100%  
+	  Novo Arquivo		     338	smiley-surprised.gif  0%  100%  
+	  Novo Arquivo		     328	smiley-tongue-out.gif  0%  100%  
+	  Novo Arquivo		     337	smiley-undecided.gif  0%  100%  
+	  Novo Arquivo		     350	smiley-wink.gif  0%  100%  
+	  Novo Arquivo		     336	smiley-yell.gif  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\fullpage\
+	  Novo Arquivo		     208	index.js  0%  100%  
+	  Novo Arquivo		   12277	plugin.js  0%  100%  
+	  Novo Arquivo		    6308	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\fullscreen\
+	  Novo Arquivo		     214	index.js  0%  100%  
+	  Novo Arquivo		    3587	plugin.js  0%  100%  
+	  Novo Arquivo		    1675	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\hr\
+	  Novo Arquivo		     190	index.js  0%  100%  
+	  Novo Arquivo		     648	plugin.js  0%  100%  
+	  Novo Arquivo		     322	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\image\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		   16015	plugin.js  0%  100%  
+	  Novo Arquivo		    8204	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\imagetools\
+	  Novo Arquivo		     214	index.js  0%  100%  
+	  Novo Arquivo		   75753	plugin.js  0%  100%  
+	  Novo Arquivo		   30906	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\importcss\
+	  Novo Arquivo		     211	index.js  0%  100%  
+	  Novo Arquivo		    7241	plugin.js  0%  100%  
+	  Novo Arquivo		    2747	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\insertdatetime\
+	  Novo Arquivo		     226	index.js  0%  100%  
+	  Novo Arquivo		    3484	plugin.js  0%  100%  
+	  Novo Arquivo		    1971	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\legacyoutput\
+	  Novo Arquivo		     220	index.js  0%  100%  
+	  Novo Arquivo		    6332	plugin.js  0%  100%  
+	  Novo Arquivo		    3263	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\link\
+	  Novo Arquivo		     196	index.js  0%  100%  
+	  Novo Arquivo		   14355	plugin.js  0%  100%  
+	  Novo Arquivo		    6994	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\lists\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		   37046	plugin.js  0%  100%  
+	  Novo Arquivo		   14635	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\media\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		   35729	plugin.js  0%  100%  
+	  Novo Arquivo		   16452	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\nonbreaking\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    1210	plugin.js  0%  100%  
+	  Novo Arquivo		     655	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\noneditable\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    3137	plugin.js  0%  100%  
+	  Novo Arquivo		    1270	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\pagebreak\
+	  Novo Arquivo		     211	index.js  0%  100%  
+	  Novo Arquivo		    2400	plugin.js  0%  100%  
+	  Novo Arquivo		    1230	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\paste\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		   53343	plugin.js  0%  100%  
+	  Novo Arquivo		   18068	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\preview\
+	  Novo Arquivo		     205	index.js  0%  100%  
+	  Novo Arquivo		    2999	plugin.js  0%  100%  
+	  Novo Arquivo		    1602	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\print\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		     624	plugin.js  0%  100%  
+	  Novo Arquivo		     293	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\save\
+	  Novo Arquivo		     196	index.js  0%  100%  
+	  Novo Arquivo		    2065	plugin.js  0%  100%  
+	  Novo Arquivo		    1150	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\searchreplace\
+	  Novo Arquivo		     223	index.js  0%  100%  
+	  Novo Arquivo		   15562	plugin.js  0%  100%  
+	  Novo Arquivo		    6493	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\spellchecker\
+	  Novo Arquivo		     220	index.js  0%  100%  
+	  Novo Arquivo		   26505	plugin.js  0%  100%  
+	  Novo Arquivo		   10048	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\tabfocus\
+	  Novo Arquivo		     208	index.js  0%  100%  
+	  Novo Arquivo		    2505	plugin.js  0%  100%  
+	  Novo Arquivo		    1264	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\table\
+	  Novo Arquivo		     199	index.js  0%  100%  
+	  Novo Arquivo		  114941	plugin.js  0%  100%  
+	  Novo Arquivo		   47126	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\template\
+	  Novo Arquivo		     208	index.js  0%  100%  
+	  Novo Arquivo		    7692	plugin.js  0%  100%  
+	  Novo Arquivo		    4520	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\textcolor\
+	  Novo Arquivo		     211	index.js  0%  100%  
+	  Novo Arquivo		    7189	plugin.js  0%  100%  
+	  Novo Arquivo		    4145	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\textpattern\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    6783	plugin.js  0%  100%  
+	  Novo Arquivo		    2745	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\toc\
+	  Novo Arquivo		     193	index.js  0%  100%  
+	  Novo Arquivo		    6359	plugin.js  0%  100%  
+	  Novo Arquivo		    2771	plugin.min.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracocontextmenu\
+	  Novo Arquivo		    2561	editor_plugin_src.js  0%  100%  
+	  Novo Arquivo		    2561	plugin.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracocss\
+	  Novo Arquivo		    8362	plugin.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracocss\img\
+	  Novo Arquivo		      87	example.gif  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracocss\js\
+	  Novo Arquivo		     609	dialog.js  0%  100%  
+	    Novo Dir      14	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracocss\langs\
+	  Novo Arquivo		      79	en.js  0%  100%  
+	  Novo Arquivo		      82	en_dlg.js  0%  100%  
+	  Novo Arquivo		      82	en_us.js  0%  100%  
+	  Novo Arquivo		      85	en_us_dlg.js  0%  100%  
+	  Novo Arquivo		      67	it.js  0%  100%  
+	  Novo Arquivo		      71	it_dlg.js  0%  100%  
+	  Novo Arquivo		      92	ja.js  0%  100%  
+	  Novo Arquivo		      84	ja_dlg.js  0%  100%  
+	  Novo Arquivo		      96	ru.js  0%  100%  
+	  Novo Arquivo		     105	ru_dlg.js  0%  100%  
+	  Novo Arquivo		      76	sv.js  0%  100%  
+	  Novo Arquivo		      93	sv_dlg.js  0%  100%  
+	  Novo Arquivo		      67	zh.js  0%  100%  
+	  Novo Arquivo		      72	zh_dlg.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoembed\
+	  Novo Arquivo		    3816	dialog.htm  0%  100%  
+	  Novo Arquivo		     860	editor_plugin.js  0%  100%  
+	  Novo Arquivo		    2984	editor_plugin_src.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoembed\img\
+	  Novo Arquivo		    1928	ajax-loader.gif  0%  100%  
+	  Novo Arquivo		     260	embed.gif  0%  100%  
+	  Novo Arquivo		     537	embed.png  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoembed\js\
+	  Novo Arquivo		    3260	dialog.js  0%  100%  
+	    Novo Dir      18	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoembed\langs\
+	  Novo Arquivo		      85	da.js  0%  100%  
+	  Novo Arquivo		     251	da_dlg.js  0%  100%  
+	  Novo Arquivo		     272	de.js  0%  100%  
+	  Novo Arquivo		     272	de_dlg.js  0%  100%  
+	  Novo Arquivo		      78	en.js  0%  100%  
+	  Novo Arquivo		     232	en_dlg.js  0%  100%  
+	  Novo Arquivo		      81	en_us.js  0%  100%  
+	  Novo Arquivo		     235	en_us_dlg.js  0%  100%  
+	  Novo Arquivo		     236	it.js  0%  100%  
+	  Novo Arquivo		     244	it_dlg.js  0%  100%  
+	  Novo Arquivo		     267	ja.js  0%  100%  
+	  Novo Arquivo		     268	ja_dlg.js  0%  100%  
+	  Novo Arquivo		     329	ru.js  0%  100%  
+	  Novo Arquivo		     329	ru_dlg.js  0%  100%  
+	  Novo Arquivo		     260	sv.js  0%  100%  
+	  Novo Arquivo		     260	sv_dlg.js  0%  100%  
+	  Novo Arquivo		     235	zh.js  0%  100%  
+	  Novo Arquivo		     235	zh_dlg.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoimg\
+	  Novo Arquivo		    1739	editor_plugin_src.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoimg\js\
+	  Novo Arquivo		   10412	image.js  0%  100%  
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoimg\langs\
+	  Novo Arquivo		    1495	en_dlg.js  0%  100%  
+	  Novo Arquivo		    1498	en_us_dlg.js  0%  100%  
+	  Novo Arquivo		    1495	he_dlg.js  0%  100%  
+	  Novo Arquivo		    1583	it_dlg.js  0%  100%  
+	  Novo Arquivo		    1694	ja_dlg.js  0%  100%  
+	  Novo Arquivo		    2314	ru_dlg.js  0%  100%  
+	  Novo Arquivo		    1536	sv_dlg.js  0%  100%  
+	  Novo Arquivo		    1346	zh_dlg.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracolink\
+	  Novo Arquivo		    7894	plugin.min.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracomacro\
+	  Novo Arquivo		     991	dialog.htm  0%  100%  
+	  Novo Arquivo		    6151	editor_plugin_src.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracomacro\img\
+	  Novo Arquivo		     603	insMacro.gif  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracomacro\js\
+	  Novo Arquivo		     609	dialog.js  0%  100%  
+	    Novo Dir      14	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracomacro\langs\
+	  Novo Arquivo		      69	en.js  0%  100%  
+	  Novo Arquivo		      82	en_dlg.js  0%  100%  
+	  Novo Arquivo		      72	en_us.js  0%  100%  
+	  Novo Arquivo		      85	en_us_dlg.js  0%  100%  
+	  Novo Arquivo		      79	he.js  0%  100%  
+	  Novo Arquivo		      82	he_dlg.js  0%  100%  
+	  Novo Arquivo		      75	ja.js  0%  100%  
+	  Novo Arquivo		      90	ja_dlg.js  0%  100%  
+	  Novo Arquivo		      86	ru.js  0%  100%  
+	  Novo Arquivo		      81	ru_dlg.js  0%  100%  
+	  Novo Arquivo		      69	sv.js  0%  100%  
+	  Novo Arquivo		      92	sv_dlg.js  0%  100%  
+	  Novo Arquivo		      66	zh.js  0%  100%  
+	  Novo Arquivo		      72	zh_dlg.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracopaste\
+	  Novo Arquivo		    1753	editor_plugin_src.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\umbracoshortcut\
+	  Novo Arquivo		    1255	editor_plugin_src.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualblocks\
+	  Novo Arquivo		     220	index.js  0%  100%  
+	  Novo Arquivo		    2139	plugin.js  0%  100%  
+	  Novo Arquivo		    1153	plugin.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualblocks\css\
+	  Novo Arquivo		    5092	visualblocks.css  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\visualchars\
+	  Novo Arquivo		     217	index.js  0%  100%  
+	  Novo Arquivo		    2589	plugin.js  0%  100%  
+	  Novo Arquivo		    1178	plugin.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\plugins\wordcount\
+	  Novo Arquivo		     211	index.js  0%  100%  
+	  Novo Arquivo		   21184	plugin.js  0%  100%  
+	  Novo Arquivo		   12030	plugin.min.js  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\skins\
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\
+	  Novo Arquivo		    2389	content.min.css  0%  100%  
+	  Novo Arquivo		   30624	skin.classic.min.css  0%  100%  
+	  Novo Arquivo		   30481	skin.ie7.min.css  0%  100%  
+	  Novo Arquivo		   30624	skin.min.css  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\fonts\
+	  Novo Arquivo		    8196	icomoon.eot  0%  100%  
+	  Novo Arquivo		   33681	icomoon.svg  0%  100%  
+	  Novo Arquivo		    8032	icomoon.ttf  0%  100%  
+	  Novo Arquivo		    8340	icomoon.woff  0%  100%  
+	  Novo Arquivo		      68	readme.md  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\skins\umbraco\img\
+	  Novo Arquivo		      53	anchor.gif  0%  100%  
+	  Novo Arquivo		    2608	loader.gif  0%  100%  
+	  Novo Arquivo		     152	object.gif  0%  100%  
+	  Novo Arquivo		      43	trans.gif  0%  100%  
+	  Novo Arquivo		      46	wline.gif  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\themes\
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\themes\inlite\
+	  Novo Arquivo		     198	index.js  0%  100%  
+	  Novo Arquivo		   45788	theme.js  0%  100%  
+	  Novo Arquivo		   16578	theme.min.js  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\themes\modern\
+	  Novo Arquivo		     198	index.js  0%  100%  
+	  Novo Arquivo		   33903	theme.js  0%  100%  
+	  Novo Arquivo		   13154	theme.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\tinymce\themes\umbraco\
+	  Novo Arquivo		    4762	theme.min.js  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\typeahead.js\
+	  Novo Arquivo		   29675	typeahead.bundle.min.js  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\umbraco\
+	  Novo Arquivo		    1223	compat.js  0%  100%  
+	  Novo Arquivo		   11364	Extensions.js  0%  100%  
+	  Novo Arquivo		    2438	LegacySpeechBubble.js  0%  100%  
+	  Novo Arquivo		   19027	LegacyUmbClientMgr.js  0%  100%  
+	  Novo Arquivo		     839	NamespaceManager.js  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\lib\underscore\
+	  Novo Arquivo		   15626	underscore-min.js  0%  100%  
+	  Novo Arquivo		   25382	underscore-min.map  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Masterpages\
+	  Novo Arquivo		     234	default.Master  0%  100%  
+	  Novo Arquivo		    1767	umbracoDialog.Master  0%  100%  
+	  Novo Arquivo		    2281	umbracoPage.Master  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Members\
+	  Novo Arquivo		    1010	EditMemberGroup.aspx  0%  100%  
+	  Novo Arquivo		    1838	MemberSearch.ascx  0%  100%  
+	  Novo Arquivo		     798	search.aspx  0%  100%  
+	  Novo Arquivo		    1913	ViewMembers.aspx  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\PartialViewMacros\
+	    Novo Dir      20	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\PartialViewMacros\Templates\
+	  Novo Arquivo		     887	Breadcrumb.cshtml  0%  100%  
+	  Novo Arquivo		    2658	EditProfile.cshtml  0%  100%  
+	  Novo Arquivo		      53	Empty (ForUseWithCustomViews).cshtml  0%  100%  
+	  Novo Arquivo		      49	Empty.cshtml  0%  100%  
+	  Novo Arquivo		    1692	Gallery.cshtml  0%  100%  
+	  Novo Arquivo		     859	ListAncestorsFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		     994	ListChildPagesFromChangeableSource.cshtml  0%  100%  
+	  Novo Arquivo		     319	ListChildPagesFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		     338	ListChildPagesOrderedByDate.cshtml  0%  100%  
+	  Novo Arquivo		     293	ListChildPagesOrderedByName.cshtml  0%  100%  
+	  Novo Arquivo		     879	ListChildPagesOrderedByProperty.cshtml  0%  100%  
+	  Novo Arquivo		     851	ListChildPagesWithDoctype.cshtml  0%  100%  
+	  Novo Arquivo		    2083	ListDescendantsFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		    1025	ListImagesFromMediaFolder.cshtml  0%  100%  
+	  Novo Arquivo		    1310	Login.cshtml  0%  100%  
+	  Novo Arquivo		    1402	LoginStatus.cshtml  0%  100%  
+	  Novo Arquivo		     649	MultinodeTree-picker.cshtml  0%  100%  
+	  Novo Arquivo		     608	Navigation.cshtml  0%  100%  
+	  Novo Arquivo		    4538	RegisterMember.cshtml  0%  100%  
+	  Novo Arquivo		    1251	SiteMap.cshtml  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Plugins\
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Plugins\Tinymce3\
+	  Novo Arquivo		    1621	InsertAnchor.aspx  0%  100%  
+	  Novo Arquivo		    2962	insertChar.aspx  0%  100%  
+	  Novo Arquivo		    9415	insertImage.aspx  0%  100%  
+	  Novo Arquivo		    6194	insertLink.aspx  0%  100%  
+	  Novo Arquivo		    6617	insertMacro.aspx  0%  100%  
+	  Novo Arquivo		     171	tinymce3tinymceCompress.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\preview\
+	  Novo Arquivo		    8281	index.html  0%  100%  
+	    Novo Dir      11	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\preview\editors\
+	  Novo Arquivo		    2450	background.html  0%  100%  
+	  Novo Arquivo		     964	border.html  0%  100%  
+	  Novo Arquivo		      91	color.html  0%  100%  
+	  Novo Arquivo		    1487	googlefontpicker.html  0%  100%  
+	  Novo Arquivo		     195	gridRow.html  0%  100%  
+	  Novo Arquivo		     333	layout.html  0%  100%  
+	  Novo Arquivo		     453	margin.html  0%  100%  
+	  Novo Arquivo		     461	padding.html  0%  100%  
+	  Novo Arquivo		     880	radius.html  0%  100%  
+	  Novo Arquivo		     191	shadow.html  0%  100%  
+	  Novo Arquivo		     211	slider.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Scripting\
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Scripting\templates\
+	    Novo Dir      15	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Scripting\templates\cshtml\
+	  Novo Arquivo		     822	Breadcrumb.cshtml  0%  100%  
+	  Novo Arquivo		     340	EmptyTemplate.cshtml  0%  100%  
+	  Novo Arquivo		    1058	Gallery.cshtml  0%  100%  
+	  Novo Arquivo		     545	ListAncestorsFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		     607	ListChildPagesFromChangeableSource.cshtml  0%  100%  
+	  Novo Arquivo		     529	ListChildPagesFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		     301	ListChildPagesOrderedByDate.cshtml  0%  100%  
+	  Novo Arquivo		     258	ListChildPagesOrderedByName.cshtml  0%  100%  
+	  Novo Arquivo		     516	ListChildPagesOrderedByProperty.cshtml  0%  100%  
+	  Novo Arquivo		     979	ListChildPagesWithDoctype.cshtml  0%  100%  
+	  Novo Arquivo		    2045	ListDescendantsFromCurrentPage.cshtml  0%  100%  
+	  Novo Arquivo		     679	ListImagesFromMediaFolder.cshtml  0%  100%  
+	  Novo Arquivo		     647	MultinodeTree-picker.cshtml  0%  100%  
+	  Novo Arquivo		     534	Navigation.cshtml  0%  100%  
+	  Novo Arquivo		    1062	SiteMap.cshtml  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Search\
+	  Novo Arquivo		    1100	QuickSearch.ascx  0%  100%  
+	  Novo Arquivo		    3887	quickSearch.js  0%  100%  
+	  Novo Arquivo		     139	QuickSearchHandler.ashx  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Settings\
+	  Novo Arquivo		     688	DictionaryItemList.aspx  0%  100%  
+	  Novo Arquivo		     726	EditDictionaryItem.aspx  0%  100%  
+	  Novo Arquivo		     899	editLanguage.aspx  0%  100%  
+	  Novo Arquivo		    8552	editTemplate.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Settings\Modals\
+	  Novo Arquivo		    3355	ShowUmbracoTags.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Settings\Scripts\
+	  Novo Arquivo		    2606	editScript.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Settings\Stylesheet\
+	  Novo Arquivo		    2484	editstylesheet.aspx  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Settings\Stylesheet\Property\
+	  Novo Arquivo		    2723	EditStyleSheetProperty.aspx  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Translation\
+	  Novo Arquivo		    2597	default.aspx  0%  100%  
+	  Novo Arquivo		    1856	details.aspx  0%  100%  
+	  Novo Arquivo		    1325	preview.aspx  0%  100%  
+	  Novo Arquivo		    1007	translationTasks.dtd  0%  100%  
+	  Novo Arquivo		     220	xml.aspx  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Users\
+	  Novo Arquivo		     723	EditUser.aspx  0%  100%  
+	  Novo Arquivo		    1445	EditUserType.aspx  0%  100%  
+	  Novo Arquivo		    1572	NodePermissions.ascx  0%  100%  
+	  Novo Arquivo		    2333	PermissionEditor.aspx  0%  100%  
+	  Novo Arquivo		    6683	PermissionsEditor.js  0%  100%  
+	  Novo Arquivo		     130	PermissionsHandler.asmx  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\
+	  Novo Arquivo		    2632	AuthorizeUpgrade.cshtml  0%  100%  
+	  Novo Arquivo		    3187	Default.cshtml  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\
+	  Novo Arquivo		    1588	dashboard.html  0%  100%  
+	  Novo Arquivo		     198	legacy.html  0%  100%  
+	  Novo Arquivo		      62	login.html  0%  100%  
+	    Novo Dir      15	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\dialogs\
+	  Novo Arquivo		     346	approvedcolorpicker.html  0%  100%  
+	  Novo Arquivo		    2424	help.html  0%  100%  
+	  Novo Arquivo		    2033	iconpicker.html  0%  100%  
+	  Novo Arquivo		    2109	insertmacro.html  0%  100%  
+	  Novo Arquivo		     405	legacydelete.html  0%  100%  
+	  Novo Arquivo		    2776	linkpicker.html  0%  100%  
+	  Novo Arquivo		    9003	login.html  0%  100%  
+	  Novo Arquivo		    1324	macropicker.html  0%  100%  
+	  Novo Arquivo		    6216	mediapicker.html  0%  100%  
+	  Novo Arquivo		    1172	membergrouppicker.html  0%  100%  
+	  Novo Arquivo		      24	property.html  0%  100%  
+	  Novo Arquivo		    1826	rteembed.html  0%  100%  
+	  Novo Arquivo		    2450	treepicker.html  0%  100%  
+	  Novo Arquivo		    4567	user.html  0%  100%  
+	  Novo Arquivo		     981	ysod.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\dialogs\content\
+	  Novo Arquivo		    2724	edit.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\dialogs\template\
+	  Novo Arquivo		    4757	querybuilder.html  0%  100%  
+	  Novo Arquivo		    1477	snippet.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\notifications\
+	  Novo Arquivo		     570	confirmroutechange.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contentpicker\
+	  Novo Arquivo		    1623	contentpicker.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\compositions\
+	  Novo Arquivo		    2675	compositions.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\editorpicker\
+	  Novo Arquivo		    3923	editorpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\editorsettings\
+	  Novo Arquivo		     871	editorsettings.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\contenttypeeditor\propertysettings\
+	  Novo Arquivo		    4503	propertysettings.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\copy\
+	  Novo Arquivo		    1921	copy.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\embed\
+	  Novo Arquivo		    1141	embed.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\help\
+	  Novo Arquivo		    2382	help.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\iconpicker\
+	  Novo Arquivo		    2150	iconpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\insert\
+	  Novo Arquivo		    2380	insert.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\insertfield\
+	  Novo Arquivo		    8852	insertfield.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\itempicker\
+	  Novo Arquivo		     902	itempicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\linkpicker\
+	  Novo Arquivo		    3037	linkpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\macropicker\
+	  Novo Arquivo		    2214	macropicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\mediaPicker\
+	  Novo Arquivo		    5327	mediapicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\mediatypepicker\
+	  Novo Arquivo		     444	mediatypepicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\membergrouppicker\
+	  Novo Arquivo		     317	membergrouppicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\memberpicker\
+	  Novo Arquivo		    1622	memberpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\move\
+	  Novo Arquivo		    1400	move.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\querybuilder\
+	  Novo Arquivo		    4219	querybuilder.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\templatesections\
+	  Novo Arquivo		    2972	templatesections.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\treepicker\
+	  Novo Arquivo		    1914	treepicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\user\
+	  Novo Arquivo		    4125	user.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\common\overlays\ysod\
+	  Novo Arquivo		    1084	ysod.html  0%  100%  
+	    Novo Dir      25	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\
+	  Novo Arquivo		      83	umb-avatar.html  0%  100%  
+	  Novo Arquivo		    1586	umb-child-selector.html  0%  100%  
+	  Novo Arquivo		     554	umb-confirm-action.html  0%  100%  
+	  Novo Arquivo		     433	umb-confirm.html  0%  100%  
+	  Novo Arquivo		    1374	umb-content-grid.html  0%  100%  
+	  Novo Arquivo		     238	umb-date-time-picker.html  0%  100%  
+	  Novo Arquivo		     195	umb-empty-state.html  0%  100%  
+	  Novo Arquivo		     602	umb-folder-grid.html  0%  100%  
+	  Novo Arquivo		     298	umb-generate-alias.html  0%  100%  
+	  Novo Arquivo		    2458	umb-grid-selector.html  0%  100%  
+	  Novo Arquivo		   16857	umb-groups-builder.html  0%  100%  
+	  Novo Arquivo		    2238	umb-keyboard-shortcuts-overview.html  0%  100%  
+	  Novo Arquivo		     698	umb-layout-selector.html  0%  100%  
+	  Novo Arquivo		     896	umb-lightbox.html  0%  100%  
+	  Novo Arquivo		      74	umb-list-view-layout.html  0%  100%  
+	  Novo Arquivo		    2188	umb-list-view-settings.html  0%  100%  
+	  Novo Arquivo		     201	umb-load-indicator.html  0%  100%  
+	  Novo Arquivo		    1535	umb-locked-field.html  0%  100%  
+	  Novo Arquivo		    1930	umb-media-grid.html  0%  100%  
+	  Novo Arquivo		    4870	umb-mini-list-view.html  0%  100%  
+	  Novo Arquivo		     744	umb-node-preview.html  0%  100%  
+	  Novo Arquivo		     837	umb-pagination.html  0%  100%  
+	  Novo Arquivo		     122	umb-progress-bar.html  0%  100%  
+	  Novo Arquivo		    3292	umb-table.html  0%  100%  
+	  Novo Arquivo		      86	umb-tooltip.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\application\
+	  Novo Arquivo		     579	umb-contextmenu.html  0%  100%  
+	  Novo Arquivo		    4654	umb-navigation.html  0%  100%  
+	  Novo Arquivo		    2615	umb-sections.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\buttons\
+	  Novo Arquivo		    1096	umb-button-group.html  0%  100%  
+	  Novo Arquivo		    1969	umb-button.html  0%  100%  
+	    Novo Dir      10	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\editor\
+	  Novo Arquivo		     780	umb-breadcrumbs.html  0%  100%  
+	  Novo Arquivo		     265	umb-editor-container.html  0%  100%  
+	  Novo Arquivo		      71	umb-editor-footer-content-left.html  0%  100%  
+	  Novo Arquivo		      72	umb-editor-footer-content-right.html  0%  100%  
+	  Novo Arquivo		     130	umb-editor-footer.html  0%  100%  
+	  Novo Arquivo		    3281	umb-editor-header.html  0%  100%  
+	  Novo Arquivo		     848	umb-editor-menu.html  0%  100%  
+	  Novo Arquivo		     508	umb-editor-navigation.html  0%  100%  
+	  Novo Arquivo		     281	umb-editor-sub-views.html  0%  100%  
+	  Novo Arquivo		     136	umb-editor-view.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\editor\subheader\
+	  Novo Arquivo		      70	umb-editor-sub-header-content-left.html  0%  100%  
+	  Novo Arquivo		      71	umb-editor-sub-header-content-right.html  0%  100%  
+	  Novo Arquivo		      65	umb-editor-sub-header-section.html  0%  100%  
+	  Novo Arquivo		     129	umb-editor-sub-header.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\html\
+	  Novo Arquivo		     494	umb-control-group.html  0%  100%  
+	  Novo Arquivo		      47	umb-pane.html  0%  100%  
+	  Novo Arquivo		      58	umb-panel.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\imaging\
+	  Novo Arquivo		     553	umb-image-crop.html  0%  100%  
+	  Novo Arquivo		     311	umb-image-gravity.html  0%  100%  
+	  Novo Arquivo		     225	umb-image-thumbnail.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\notifications\
+	  Novo Arquivo		     965	umb-notifications.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\overlays\
+	  Novo Arquivo		      94	umb-overlay-backdrop.html  0%  100%  
+	  Novo Arquivo		    3292	umb-overlay.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\property\
+	  Novo Arquivo		     128	umb-property-editor.html  0%  100%  
+	  Novo Arquivo		       0	umb-property-group.html100%  
+	  Novo Arquivo		     835	umb-property.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\tabs\
+	  Novo Arquivo		     130	umb-tab.html  0%  100%  
+	  Novo Arquivo		      84	umb-tabs-content.html  0%  100%  
+	  Novo Arquivo		     210	umb-tabs-nav.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\tree\
+	  Novo Arquivo		     587	umb-tree-search-box.html  0%  100%  
+	  Novo Arquivo		     866	umb-tree-search-results.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\components\upload\
+	  Novo Arquivo		    3607	umb-file-dropzone.html  0%  100%  
+	    Novo Dir       9	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\content\
+	  Novo Arquivo		    3833	copy.html  0%  100%  
+	  Novo Arquivo		    1545	create.html  0%  100%  
+	  Novo Arquivo		     463	delete.html  0%  100%  
+	  Novo Arquivo		    2418	edit.html  0%  100%  
+	  Novo Arquivo		     704	emptyrecyclebin.html  0%  100%  
+	  Novo Arquivo		    3385	move.html  0%  100%  
+	  Novo Arquivo		     522	recyclebin.html  0%  100%  
+	  Novo Arquivo		     952	restore.html  0%  100%  
+	  Novo Arquivo		     198	umbpreview.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\
+	  Novo Arquivo		     587	ChangePassword.html  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\default\
+	  Novo Arquivo		   25651	ourumbraco.jpg  0%  100%  
+	  Novo Arquivo		    3498	StartupDashboardIntro.html  0%  100%  
+	  Novo Arquivo		    1350	StartupDashboardKits.html  0%  100%  
+	  Novo Arquivo		       0	StartupDashboardLastEdits.html100%  
+	  Novo Arquivo		     828	StartupDashboardVideos.html  0%  100%  
+	  Novo Arquivo		   49817	umbracotv.jpg  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\developer\
+	  Novo Arquivo		    1254	developerdashboardintro.html  0%  100%  
+	  Novo Arquivo		    1059	developerdashboardvideos.html  0%  100%  
+	  Novo Arquivo		   17669	examinemanagement.html  0%  100%  
+	  Novo Arquivo		    6942	healthcheck.html  0%  100%  
+	  Novo Arquivo		    5138	redirecturls.html  0%  100%  
+	  Novo Arquivo		    1280	xmldataintegrityreport.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\forms\
+	  Novo Arquivo		    1625	formsdashboardintro.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\media\
+	  Novo Arquivo		    1800	desktopmediauploader.html  0%  100%  
+	  Novo Arquivo		     904	mediadashboardintro.html  0%  100%  
+	  Novo Arquivo		     829	mediadashboardvideos.html  0%  100%  
+	  Novo Arquivo		     154	mediafolderbrowser.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\members\
+	  Novo Arquivo		     384	membersdashboardintro.html  0%  100%  
+	  Novo Arquivo		     796	membersdashboardvideos.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\dashboard\settings\
+	  Novo Arquivo		    1324	settingsdashboardintro.html  0%  100%  
+	  Novo Arquivo		     829	settingsdashboardvideos.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\datatypes\
+	  Novo Arquivo		    1881	create.html  0%  100%  
+	  Novo Arquivo		    1350	delete.html  0%  100%  
+	  Novo Arquivo		    2060	edit.html  0%  100%  
+	  Novo Arquivo		    1933	move.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\directives\
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\directives\_obsolete\
+	  Novo Arquivo		     738	umb-content-name.html  0%  100%  
+	  Novo Arquivo		     406	umb-header.html  0%  100%  
+	  Novo Arquivo		    1472	umb-item-sorter.html  0%  100%  
+	  Novo Arquivo		     572	umb-login.html  0%  100%  
+	  Novo Arquivo		     810	umb-optionsmenu.html  0%  100%  
+	  Novo Arquivo		    1052	umb-photo-folder.html  0%  100%  
+	  Novo Arquivo		     147	umb-tab-view.html  0%  100%  
+	  Novo Arquivo		     239	umb-upload-dropzone.html  0%  100%  
+	    Novo Dir       7	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\
+	  Novo Arquivo		    2143	copy.html  0%  100%  
+	  Novo Arquivo		    2349	create.html  0%  100%  
+	  Novo Arquivo		    1667	delete.html  0%  100%  
+	  Novo Arquivo		    2314	edit.html  0%  100%  
+	  Novo Arquivo		    2141	move.html  0%  100%  
+	  Novo Arquivo		     145	property.html  0%  100%  
+	  Novo Arquivo		       0	propertygroup.html100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\views\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\views\design\
+	  Novo Arquivo		      95	design.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\views\listview\
+	  Novo Arquivo		     534	listview.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\views\permissions\
+	  Novo Arquivo		    1633	permissions.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\documenttypes\views\templates\
+	  Novo Arquivo		     822	templates.html  0%  100%  
+	    Novo Dir       8	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\install\
+	  Novo Arquivo		     391	continueinstall.html  0%  100%  
+	  Novo Arquivo		    4606	database.html  0%  100%  
+	  Novo Arquivo		     320	error.html  0%  100%  
+	  Novo Arquivo		     983	permissionsreport.html  0%  100%  
+	  Novo Arquivo		     891	starterkit.html  0%  100%  
+	  Novo Arquivo		     868	upgrade.html  0%  100%  
+	  Novo Arquivo		    2848	user.html  0%  100%  
+	  Novo Arquivo		     997	version7upgradereport.html  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\media\
+	  Novo Arquivo		    1638	create.html  0%  100%  
+	  Novo Arquivo		     435	delete.html  0%  100%  
+	  Novo Arquivo		    2134	edit.html  0%  100%  
+	  Novo Arquivo		     695	emptyrecyclebin.html  0%  100%  
+	  Novo Arquivo		    1665	move.html  0%  100%  
+	  Novo Arquivo		     506	recyclebin.html  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\mediatypes\
+	  Novo Arquivo		    2137	copy.html  0%  100%  
+	  Novo Arquivo		    1903	create.html  0%  100%  
+	  Novo Arquivo		    1610	delete.html  0%  100%  
+	  Novo Arquivo		    2310	edit.html  0%  100%  
+	  Novo Arquivo		    2119	move.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\mediatypes\views\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\mediatypes\views\design\
+	  Novo Arquivo		      88	design.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\mediatypes\views\listview\
+	  Novo Arquivo		     531	listview.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\mediatypes\views\permissions\
+	  Novo Arquivo		    1630	permissions.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\member\
+	  Novo Arquivo		    1005	create.html  0%  100%  
+	  Novo Arquivo		     459	delete.html  0%  100%  
+	  Novo Arquivo		    2040	edit.html  0%  100%  
+	  Novo Arquivo		    1057	list.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\membertypes\
+	  Novo Arquivo		    1871	create.html  0%  100%  
+	  Novo Arquivo		    1101	delete.html  0%  100%  
+	  Novo Arquivo		    2311	edit.html  0%  100%  
+	  Novo Arquivo		     351	move.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\membertypes\views\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\membertypes\views\design\
+	  Novo Arquivo		     116	design.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\packager\
+	  Novo Arquivo		     441	delete.html  0%  100%  
+	  Novo Arquivo		     755	overview.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\packager\views\
+	  Novo Arquivo		    8265	install-local.html  0%  100%  
+	  Novo Arquivo		    5429	installed.html  0%  100%  
+	  Novo Arquivo		   18950	repo.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\partialviewmacros\
+	  Novo Arquivo		    3845	create.html  0%  100%  
+	  Novo Arquivo		     430	delete.html  0%  100%  
+	  Novo Arquivo		    4035	edit.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\partialviews\
+	  Novo Arquivo		    3419	create.html  0%  100%  
+	  Novo Arquivo		     425	delete.html  0%  100%  
+	  Novo Arquivo		    4406	edit.html  0%  100%  
+	    Novo Dir      16	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\prevalueeditors\
+	  Novo Arquivo		     101	boolean.html  0%  100%  
+	  Novo Arquivo		     427	decimal.html  0%  100%  
+	  Novo Arquivo		      84	hidden.html  0%  100%  
+	  Novo Arquivo		     701	imagepicker.html  0%  100%  
+	  Novo Arquivo		     873	mediapicker.html  0%  100%  
+	  Novo Arquivo		     682	multivalues.html  0%  100%  
+	  Novo Arquivo		     162	nodetype.html  0%  100%  
+	  Novo Arquivo		     434	number.html  0%  100%  
+	  Novo Arquivo		     255	radiobuttonlist.html  0%  100%  
+	  Novo Arquivo		     222	readonlykeyvalues.html  0%  100%  
+	  Novo Arquivo		     414	requiredfield.html  0%  100%  
+	  Novo Arquivo		     101	textarea.html  0%  100%  
+	  Novo Arquivo		      78	textstring.html  0%  100%  
+	  Novo Arquivo		     886	treepicker.html  0%  100%  
+	  Novo Arquivo		    2855	treesource.html  0%  100%  
+	  Novo Arquivo		     264	valuetype.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\boolean\
+	  Novo Arquivo		     187	boolean.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\changepassword\
+	  Novo Arquivo		    3826	changepassword.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\checkboxlist\
+	  Novo Arquivo		     468	checkboxlist.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\colorpicker\
+	  Novo Arquivo		     595	colorpicker.html  0%  100%  
+	  Novo Arquivo		     650	colorpicker.prevalues.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\contentpicker\
+	  Novo Arquivo		    1882	contentpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\datepicker\
+	  Novo Arquivo		    1772	datepicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\decimal\
+	  Novo Arquivo		     583	decimal.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\dropdown\
+	  Novo Arquivo		     782	dropdown.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\email\
+	  Novo Arquivo		     606	email.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\entitypicker\
+	  Novo Arquivo		     661	entitypicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\fileupload\
+	  Novo Arquivo		    1719	fileupload.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\folderbrowser\
+	  Novo Arquivo		     149	folderbrowser.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\googlemaps\
+	  Novo Arquivo		     185	googlemaps.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\grid\
+	  Novo Arquivo		   16086	grid.html  0%  100%  
+	  Novo Arquivo		    6912	grid.prevalues.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\grid\config\
+	  Novo Arquivo		    6965	grid.default.config.js  0%  100%  
+	  Novo Arquivo		     251	grid.default.rtestyles.css  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\grid\dialogs\
+	  Novo Arquivo		     469	config.html  0%  100%  
+	  Novo Arquivo		     458	editconfig.html  0%  100%  
+	  Novo Arquivo		    4800	layoutconfig.html  0%  100%  
+	  Novo Arquivo		    4047	rowconfig.html  0%  100%  
+	  Novo Arquivo		     414	rowdeleteconfirm.html  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\grid\editors\
+	  Novo Arquivo		     502	embed.html  0%  100%  
+	  Novo Arquivo		     113	error.html  0%  100%  
+	  Novo Arquivo		     580	macro.html  0%  100%  
+	  Novo Arquivo		     775	media.html  0%  100%  
+	  Novo Arquivo		    1000	rte.html  0%  100%  
+	  Novo Arquivo		     293	textstring.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\imagecropper\
+	  Novo Arquivo		    3041	imagecropper.html  0%  100%  
+	  Novo Arquivo		    1927	imagecropper.prevalues.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\integer\
+	  Novo Arquivo		     612	integer.html  0%  100%  
+	    Novo Dir       6	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\listview\
+	  Novo Arquivo		    1189	bulkActionPermissions.prevalues.html  0%  100%  
+	  Novo Arquivo		    2428	includeproperties.prevalues.html  0%  100%  
+	  Novo Arquivo		    2240	layouts.prevalues.html  0%  100%  
+	  Novo Arquivo		    8482	listview.html  0%  100%  
+	  Novo Arquivo		     462	orderDirection.prevalues.html  0%  100%  
+	  Novo Arquivo		     190	sortby.prevalues.html  0%  100%  
+	    Novo Dir       0	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\grid\
+	  Novo Arquivo		    3131	grid.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\listview\layouts\list\
+	  Novo Arquivo		    2505	list.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\macrocontainer\
+	  Novo Arquivo		    1126	macrocontainer.html  0%  100%  
+	  Novo Arquivo		     211	macrolist.prevalues.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\markdowneditor\
+	  Novo Arquivo		     538	markdowneditor.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\mediapicker\
+	  Novo Arquivo		    1636	mediapicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\membergrouppicker\
+	  Novo Arquivo		     688	membergrouppicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\membergroups\
+	  Novo Arquivo		     598	membergroups.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\memberpicker\
+	  Novo Arquivo		     728	memberpicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\multipletextbox\
+	  Novo Arquivo		     904	multipletextbox.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\radiobuttons\
+	  Novo Arquivo		     477	radiobuttons.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\readonlyvalue\
+	  Novo Arquivo		     164	readonlyvalue.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\relatedlinks\
+	  Novo Arquivo		    5873	relatedlinks.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\rte\
+	  Novo Arquivo		    1010	rte.html  0%  100%  
+	  Novo Arquivo		    1783	rte.prevalues.html  0%  100%  
+	    Novo Dir       4	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\slider\
+	  Novo Arquivo		     374	handle.prevalues.html  0%  100%  
+	  Novo Arquivo		     365	orientation.prevalues.html  0%  100%  
+	  Novo Arquivo		     146	slider.html  0%  100%  
+	  Novo Arquivo		     375	tooltip.prevalues.html  0%  100%  
+	    Novo Dir       2	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\tags\
+	  Novo Arquivo		     962	tags.html  0%  100%  
+	  Novo Arquivo		     200	tags.prevalues.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\templatepicker\
+	  Novo Arquivo		     113	templatepicker.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\test\
+	  Novo Arquivo		     476	test.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\textarea\
+	  Novo Arquivo		     374	textarea.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\textbox\
+	  Novo Arquivo		     456	textbox.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\ultrasimple\
+	  Novo Arquivo		     242	ultrasimple.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\urllist\
+	  Novo Arquivo		     512	urllist.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\propertyeditors\validationtest\
+	  Novo Arquivo		     561	validationtest.html  0%  100%  
+	    Novo Dir       3	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\scripts\
+	  Novo Arquivo		    2042	create.html  0%  100%  
+	  Novo Arquivo		     420	delete.html  0%  100%  
+	  Novo Arquivo		    1731	edit.html  0%  100%  
+	    Novo Dir       1	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Views\templates\
+	  Novo Arquivo		    7172	edit.html  0%  100%  
+	    Novo Dir      20	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Webservices\
+	  Novo Arquivo		   26403	ajax.js  0%  100%  
+	  Novo Arquivo		     125	CacheRefresher.asmx  0%  100%  
+	  Novo Arquivo		     130	CheckForUpgrade.asmx  0%  100%  
+	  Novo Arquivo		     111	CMSNode.asmx  0%  100%  
+	  Novo Arquivo		     125	codeEditorSave.asmx  0%  100%  
+	  Novo Arquivo		     102	Developer.asmx  0%  100%  
+	  Novo Arquivo		     127	legacyAjaxCalls.asmx  0%  100%  
+	  Novo Arquivo		     142	MacroContainerService.asmx  0%  100%  
+	  Novo Arquivo		     134	MediaUploader.ashx  0%  100%  
+	  Novo Arquivo		     117	nodeSorter.asmx  0%  100%  
+	  Novo Arquivo		     125	progressStatus.asmx  0%  100%  
+	  Novo Arquivo		     106	publication.asmx  0%  100%  
+	  Novo Arquivo		     100	Settings.asmx  0%  100%  
+	  Novo Arquivo		     154	TagsAutoCompleteHandler.ashx  0%  100%  
+	  Novo Arquivo		     102	templates.asmx  0%  100%  
+	  Novo Arquivo		     113	trashcan.asmx  0%  100%  
+	  Novo Arquivo		     134	TreeClientService.asmx  0%  100%  
+	  Novo Arquivo		     130	TreeDataService.ashx  0%  100%  
+	  Novo Arquivo		     174	UltimatePickerAutoCompleteHandler.ashx  0%  100%  
+	  Novo Arquivo		    8404	wsdl.xslt  0%  100%  
+	    Novo Dir       5	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Xslt\
+	  Novo Arquivo		     667	macroGetCurrent.xsl  0%  100%  
+	  Novo Arquivo		    1178	macroGetSubs.xsl  0%  100%  
+	  Novo Arquivo		    1114	searchResult.xslt  0%  100%  
+	  Novo Arquivo		    1756	sqlNodeHierachy.xslt  0%  100%  
+	  Novo Arquivo		     594	Web.config  0%  100%  
+	    Novo Dir      15	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Xslt\Templates\
+	  Novo Arquivo		    1085	Breadcrumb.xslt  0%  100%  
+	  Novo Arquivo		     527	Clean.xslt  0%  100%  
+	  Novo Arquivo		    1264	ListSubPagesAsThumbnails.xslt  0%  100%  
+	  Novo Arquivo		    1063	ListSubPagesByDateAndLimit.xslt  0%  100%  
+	  Novo Arquivo		     918	ListSubPagesByDocumentType.xslt  0%  100%  
+	  Novo Arquivo		     886	ListSubPagesByLevel.xslt  0%  100%  
+	  Novo Arquivo		     956	ListSubPagesFromAChangableSource.xslt  0%  100%  
+	  Novo Arquivo		     756	ListSubPagesFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		    1151	ListThumbnailsFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		     771	ListWholeStructureFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		    1280	NavigationPrototype.xslt  0%  100%  
+	  Novo Arquivo		    1701	RelatedLinks.xslt  0%  100%  
+	  Novo Arquivo		    3263	RSSFeed.xslt  0%  100%  
+	  Novo Arquivo		    1579	Sitemap.xslt  0%  100%  
+	  Novo Arquivo		    1586	TablePrototype.xslt  0%  100%  
+	    Novo Dir      15	c:\users\pcorr\documents\visual studio 2015\Projects\UmbracoTeste\packages\UmbracoCms.7.6.3\UmbracoFiles\Umbraco\Xslt\Templates\Schema2\
+	  Novo Arquivo		    1066	Breadcrumb.xslt  0%  100%  
+	  Novo Arquivo		     527	Clean.xslt  0%  100%  
+	  Novo Arquivo		    1015	ListSubPagesAsThumbnails.xslt  0%  100%  
+	  Novo Arquivo		    1055	ListSubPagesByDateAndLimit.xslt  0%  100%  
+	  Novo Arquivo		     891	ListSubPagesByDocumentType.xslt  0%  100%  
+	  Novo Arquivo		     875	ListSubPagesByLevel.xslt  0%  100%  
+	  Novo Arquivo		     948	ListSubPagesFromAChangableSource.xslt  0%  100%  
+	  Novo Arquivo		     748	ListSubPagesFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		     893	ListThumbnailsFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		     763	ListWholeStructureFromCurrentPage.xslt  0%  100%  
+	  Novo Arquivo		    1267	NavigationPrototype.xslt  0%  100%  
+	  Novo Arquivo		    1714	RelatedLinks.xslt  0%  100%  
+	  Novo Arquivo		    3251	RSSFeed.xslt  0%  100%  
+	  Novo Arquivo		    1567	Sitemap.xslt  0%  100%  
+	  Novo Arquivo		    1560	TablePrototype.xslt  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:       321       320         1         0         0         0
+ Arquivos:      1682      1681         1         0         0         0
+    Bytes:   19.41 m   19.40 m     8.6 k         0         0         0
+N.§ de Vezes:   0:00:13   0:00:11                       0:00:00   0:00:01
+
+
+Velocidade:             1786724 Bytes/s.
+Velocidade:             102.237 MegaBytes/min.
+   Finalizado em: quinta-feira, 22 de junho de 2017 17:14:32
+
