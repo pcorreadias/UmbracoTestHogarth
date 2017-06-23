@@ -1,6 +1,5 @@
 ﻿@model IEnumerable<UmbracoTeste.Models.Companies>
 
-
 <h2>List Companies</h2>
 
 <table class="table">
@@ -8,9 +7,9 @@
         <th>
             @Html.DisplayNameFor(model => model.Name)
         </th>
-        @*<th>
+        <th>
             @Html.DisplayNameFor(model => model.Sector)
-        </th>*@
+        </th>
         <th>
             @Html.DisplayNameFor(model => model.Year_Foundation)
         </th>
@@ -23,9 +22,9 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-            @*<td>
+            <td>
                 @Html.DisplayFor(modelItem => item.Sector)
-            </td>*@
+            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Year_Foundation)
             </td>
@@ -33,3 +32,4 @@
     }
 
 </table>
+

@@ -32,7 +32,7 @@ namespace UmbracoTeste.Controllers
                 officesList = context.Offices.ToList();
             }
 
-            return View(PARTIAL_VIEW_FOLDER + "_ListOffices.cshtml", officesList);
+            return PartialView(PARTIAL_VIEW_FOLDER + "_ListOffices.cshtml", officesList);
         }
 
         public ActionResult ListEmployee()
@@ -45,7 +45,7 @@ namespace UmbracoTeste.Controllers
                 employeeList = context.Employees.ToList();
             }
 
-            return View(PARTIAL_VIEW_FOLDER + "_ListEmployee.cshtml", employeeList);
+            return PartialView(PARTIAL_VIEW_FOLDER + "_ListEmployee.cshtml", employeeList);
         }
     }
 }
